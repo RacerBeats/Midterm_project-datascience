@@ -1,0 +1,549 @@
+Fight ID,Date,Red fighter,Blue fighter,Focal ID,Winner,Focal colour,Focal Outcome,Sex,Foc_Sig Str %,Z_Foc Sig Str %,Foc_Att strikes per sec,Z_Foc_Att strikes per sec,Method,Method_B
+1,14/03/2020,Johnny Walker,Nikita Krylov,Johnny Walker,Blue,Red,Loser,M,74,1.957658832,0.12,-0.618923278,Decision,Decision
+2,14/03/2020,Francisco Trinaldo,John Makdessi,John Makdessi,Red,Blue,Loser,M,54,0.62275304,0.14,-0.483255296,Decision,Decision
+3,14/03/2020,Jussier Formiga,Brandon Moreno,Jussier Formiga,Blue,Red,Loser,M,46,0.088790723,0.09,-0.822425252,Decision,Decision
+4,14/03/2020,Amanda Ribas,Randa Markos,Randa Markos,Red,Blue,Loser,F,46,0.088790723,0.11,-0.68675727,Decision,Decision
+5,14/03/2020,Elizeu Zaleski dos Santos,Aleksi Kunchenko,Elizeu Zaleski dos Santos,Red,Red,Winner,M,39,-0.378426304,0.19,-0.144085339,Decision,Decision
+6,14/03/2020,Marya Bueno Silva,Maryna Moroz,Maryna Moroz,Blue,Blue,Winner,F,56,0.756243619,0.33,0.805590539,Decision,Decision
+7,14/03/2020,Bruno Silva,David Dvorak,Bruno Silva,Blue,Red,Loser,M,46,0.088790723,0.12,-0.618923278,Decision,Decision
+8,14/03/2020,Veronica Macedo,Bea Malecki,Bea Malecki,Blue,Blue,Winner,F,52,0.489262461,0.36,1.009092513,Decision,Decision
+9,07/03/2020,Israel Adesanya,Yoel Romero,Israel Adesanya,Red,Red,Winner,M,36,-0.578662173,0.09,-0.822425252,Decision,Decision
+10,07/03/2020,Weili Zhang,Joanna Jedrzejczyk,Joanna Jedrzejczyk,Red,Blue,Loser,F,51,0.422517171,0.25,0.262918609,Decision,Decision
+11,07/03/2020,Neil Magny,Jingliang Li,Neil Magny,Red,Red,Winner,M,53,0.55600775,0.21,-0.008417357,Decision,Decision
+12,07/03/2020,Alex Oliveira,Max Griffin,Max Griffin,Red,Blue,Loser,M,46,0.088790723,0.11,-0.68675727,Decision,Decision
+13,07/03/2020,Mark Madsen,Austin Hubbard,Mark Madsen,Red,Red,Winner,M,25,-1.312860359,0.07,-0.958093235,Decision,Decision
+14,07/03/2020,Giga Chikadze,Jamall Emmers,Jamall Emmers,Red,Blue,Loser,M,42,-0.178190436,0.14,-0.483255296,Decision,Decision
+15,29/02/2020,Gabriel Silva,Kyler Phillips,Gabriel Silva,Blue,Red,Loser,M,31,-0.912388621,0.12,-0.618923278,Decision,Decision
+16,29/02/2020,Marcin Tybura,Serghei Spivac,Serghei Spivac,Red,Blue,Loser,M,31,-0.912388621,0.11,-0.68675727,Decision,Decision
+17,29/02/2020,Luis Pena,Steve Garcia,Luis Pena,Red,Red,Winner,M,64,1.290205936,0.11,-0.68675727,Decision,Decision
+18,29/02/2020,Sean Brady,Ismail Naurdiev,Ismail Naurdiev,Red,Blue,Loser,M,42,-0.178190436,0.1,-0.754591261,Decision,Decision
+19,22/02/2020,Paul Felder,Dan Hooker,Paul Felder,Blue,Red,Loser,M,47,0.155536012,0.16,-0.347587313,Decision,Decision
+20,22/02/2020,Karolina Kowalkiexicz,Xiaonan Yan,Xiaonan Yan,Blue,Blue,Winner,F,52,0.489262461,0.2,-0.076251348,Decision,Decision
+21,22/02/2020,Brad Riddell,Magomed Mustafaev,Brad Riddell,Red,Red,Winner,M,52,0.489262461,0.11,-0.68675727,Decision,Decision
+22,22/02/2020,Jake Matthews,Emil Meek,Emil Meek,Red,Blue,Loser,M,42,-0.178190436,0.18,-0.211919331,Decision,Decision
+23,22/02/2020,Kai Kara-France,Tyson Nam,Kai Kara-France,Red,Red,Winner,M,30,-0.979133911,0.29,0.534254574,Decision,Decision
+24,22/02/2020,Loma Lookboonmee,Angela Hill,Angela Hill,Blue,Blue,Winner,F,38,-0.445171594,0.18,-0.211919331,Decision,Decision
+25,15/02/2020,Montana De La Rosa,Mara Romero Borella,Montana De La Rosa,Red,Red,Winner,F,40,-0.311681015,0.14,-0.483255296,Decision,Decision
+26,15/02/2020,Rogerio Bontorin,Ray Borg,Ray Borg,Blue,Blue,Winner,M,77,2.157894701,0.08,-0.890259244,Decision,Decision
+27,15/02/2020,Lando Vannata,Yancy Medeiros,Lando Vannata,Red,Red,Winner,M,52,0.489262461,0.21,-0.008417357,Decision,Decision
+28,15/02/2020,Jim Miller,Scott Holtzman,Scott Holtzman,Blue,Blue,Winner,M,44,-0.044699856,0.26,0.3307526,Decision,Decision
+29,15/02/2020,Devin Clark,Dequan Townsend,Devin Clark,Red,Red,Winner,M,72,1.824168253,0.17,-0.279753322,Decision,Decision
+30,15/02/2020,Casey Kenney,Merab Dvalishvili,Merab Dvalishvili,Blue,Blue,Winner,M,34,-0.712152753,0.02,-1.297263192,Decision,Decision
+31,15/02/2020,Macy Chiasson,Shanna Young,Macy Chiasson,Red,Red,Winner,F,51,0.422517171,0.28,0.466420583,Decision,Decision
+32,08/02/2020,Jon Jones,Dominick Reyes,Dominick Reyes,Red,Blue,Loser,M,44,-0.044699856,0.18,-0.211919331,Decision,Decision
+33,08/02/2020,Mirsad Bektic,Dan Ige,Mirsad Bektic,Blue,Red,Loser,M,28,-1.11262449,0.08,-0.890259244,Decision,Decision
+34,08/02/2020,Derrick Lewis,Ilir Latifi,Ilir Latifi,Red,Blue,Loser,M,41,-0.244935725,0.09,-0.822425252,Decision,Decision
+35,08/02/2020,Trevin Giles,James Krause,Trevin Giles,Red,Red,Winner,M,47,0.155536012,0.19,-0.144085339,Decision,Decision
+36,08/02/2020,Lauren Murphy,Andrea Lee,Andrea Lee,Red,Blue,Loser,F,38,-0.445171594,0.3,0.602088565,Decision,Decision
+37,08/02/2020,Andre Ewell,Jonathan Martinez,Andre Ewell,Red,Red,Winner,M,45,0.022045433,0.2,-0.076251348,Decision,Decision
+38,08/02/2020,Austin Lingo,Youssef Zalal,Youssef Zalal,Blue,Blue,Winner,M,56,0.756243619,0.09,-0.822425252,Decision,Decision
+39,25/01/2020,Rafael Dos Anjos,Michael Chiesa,Rafael Dos Anjos,Blue,Red,Loser,M,38,-0.445171594,0.06,-1.025927226,Decision,Decision
+40,25/01/2020,Jamahal Hill,Darko Stosic,Darko Stosic,Red,Blue,Loser,M,43,-0.111445146,0.09,-0.822425252,Decision,Decision
+41,25/01/2020,Bevon Lewis,Dequan Townsend,Bevon Lewis,Red,Red,Winner,M,43,-0.111445146,0.16,-0.347587313,Decision,Decision
+42,25/01/2020,Arnold Allen,Nik Lentz,Nik Lentz,Red,Blue,Loser,M,28,-1.11262449,0.21,-0.008417357,Decision,Decision
+43,25/01/2020,Justine Kish,Lucie Pudilova,Justine Kish,Red,Red,Winner,F,48,0.222281302,0.15,-0.415421305,Decision,Decision
+44,25/01/2020,Montel Jackson,Felipe Colares,Felipe Colares,Red,Blue,Loser,M,25,-1.312860359,0.03,-1.2294292,Decision,Decision
+45,25/01/2020,Sara McMann,Lina Lansberg,Sara McMann,Red,Red,Winner,F,76,2.091149411,0.09,-0.822425252,Decision,Decision
+46,18/01/2020,Holly Holm,Raquel Pennington,Raquel Pennington,Red,Blue,Loser,F,48,0.222281302,0.11,-0.68675727,Decision,Decision
+47,18/01/2020,Roxanne Modafferi,Maycee Barber,Roxanne Modafferi,Red,Red,Winner,F,44,-0.044699856,0.17,-0.279753322,Decision,Decision
+48,18/01/2020,Andre Fili,Sodiq Yusuff,Sodiq Yusuff,Blue,Blue,Winner,M,47,0.155536012,0.2,-0.076251348,Decision,Decision
+49,18/01/2020,Tim Elliott,Askar Askarov,Tim Elliott,Blue,Red,Loser,M,42,-0.178190436,0.17,-0.279753322,Decision,Decision
+50,18/01/2020,Aleksa Camur,Justin Ledet,Justin Ledet,Red,Blue,Loser,M,33,-0.778898042,0.16,-0.347587313,Decision,Decision
+51,18/01/2020,Sabina Mazo,JJ Aldrich,Sabina Mazo,Red,Red,Winner,F,36,-0.578662173,0.36,1.009092513,Decision,Decision
+52,21/12/2019,Volkan Oezdemir,Aleksandar Rakic,Aleksandar Rakic,Red,Blue,Loser,M,51,0.422517171,0.18,-0.211919331,Decision,Decision
+53,21/12/2019,Jun Yong Park,Marc-Andre Barriault,Jun Yong Park,Red,Red,Winner,M,41,-0.244935725,0.21,-0.008417357,Decision,Decision
+54,21/12/2019,Kyung Ho Kang,Liu Pingyuan,Liu Pingyuan,Red,Blue,Loser,M,47,0.155536012,0.17,-0.279753322,Decision,Decision
+55,21/12/2019,Ciryl Gane,Tanner Boser,Ciryl Gane,Red,Red,Winner,M,40,-0.311681015,0.18,-0.211919331,Decision,Decision
+56,21/12/2019,SeungWoo Choi,Suman Mokhtarian,Suman Mokhtarian,Red,Blue,Loser,M,41,-0.244935725,0.13,-0.551089287,Decision,Decision
+57,21/12/2019,Dong Hyun Ma,Omar Morales,Dong Hyun Ma,Blue,Red,Loser,M,26,-1.246115069,0.07,-0.958093235,Decision,Decision
+58,21/12/2019,Raoni Barcelos,Said Nurmagomedov,Said Nurmagomedov,Red,Blue,Loser,M,31,-0.912388621,0.22,0.059416635,Decision,Decision
+59,21/12/2019,Heili Alateng,Ryan Benoit,Heili Alateng,Red,Red,Winner,M,35,-0.645407463,0.18,-0.211919331,Decision,Decision
+60,14/12/2019,Max Holloway,Alexander Volkanovski,Alexander Volkanovski,Blue,Blue,Winner,M,51,0.422517171,0.2,-0.076251348,Decision,Decision
+61,14/12/2019,Amanda Nunes,Germaine de Randamie,Amanda Nunes,Red,Red,Winner,F,42,-0.178190436,0.22,0.059416635,Decision,Decision
+62,14/12/2019,Marlon Moraes,Jose Aldo,Jose Aldo,Red,Blue,Loser,M,39,-0.378426304,0.17,-0.279753322,Decision,Decision
+63,14/12/2019,Ian Heinisch,Omari Akhmedov,Ian Heinisch,Blue,Red,Loser,M,51,0.422517171,0.13,-0.551089287,Decision,Decision
+64,14/12/2019,Brandon Moreno,Kai Kara-France,Kai Kara-France,Red,Blue,Loser,M,35,-0.645407463,0.26,0.3307526,Decision,Decision
+65,14/12/2019,Jessica Eye,Viviane Araujo,Jessica Eye,Red,Red,Winner,F,50,0.355771881,0.22,0.059416635,Decision,Decision
+66,07/12/2019,Rob Font,Ricky Simon,Ricky Simon,Red,Blue,Loser,M,38,-0.445171594,0.18,-0.211919331,Decision,Decision
+67,07/12/2019,Joe Solecki,Matt Wiman,Joe Solecki,Red,Red,Winner,M,80,2.35813057,0.24,0.195084617,Decision,Decision
+68,16/11/2019,Jan Blachowicz,Jacare Souza,Jacare Souza,Red,Blue,Loser,M,41,-0.244935725,0.06,-1.025927226,Decision,Decision
+69,16/11/2019,Antonion Arroyo,Andre Muniz,Antonion Arroyo,Blue,Red,Loser,M,61,1.089970067,0.14,-0.483255296,Decision,Decision
+70,16/11/2019,Markus Perez,Wellington Turman,Wellington Turman,Blue,Blue,Winner,M,40,-0.311681015,0.15,-0.415421305,Decision,Decision
+71,16/11/2019,Francisco Trinaldo,Bobby Green,Francisco Trinaldo,Red,Red,Winner,M,25,-1.312860359,0.14,-0.483255296,Decision,Decision
+72,16/11/2019,Douglas Silva de Andrade,Renan Barao,Renan Barao,Red,Blue,Loser,M,36,-0.578662173,0.27,0.398586591,Decision,Decision
+73,16/11/2019,Ariane Lipski,Isabela de Padua,Ariane Lipski,Red,Red,Winner,F,49,0.289026592,0.25,0.262918609,Decision,Decision
+74,16/11/2019,Vanessa Melo,Tracy Cortez,Tracy Cortez,Blue,Blue,Winner,F,56,0.756243619,0.25,0.262918609,Decision,Decision
+75,09/11/2019,Zabit Magomedsharipov,Calvin Kattar,Zabit Magomedsharipov,Red,Red,Winner,M,38,-0.445171594,0.28,0.466420583,Decision,Decision
+76,09/11/2019,Alexander Volkov,Greg Hardy,Greg Hardy,Red,Blue,Loser,M,34,-0.712152753,0.16,-0.347587313,Decision,Decision
+77,09/11/2019,Khadis Ibragimov,Ed Herman,Khadis Ibragimov,Blue,Red,Loser,M,51,0.422517171,0.14,-0.483255296,Decision,Decision
+78,09/11/2019,Ramazan Emeev,Anthony Rocco Martin,Anthony Rocco Martin,Blue,Blue,Winner,M,29,-1.045879201,0.16,-0.347587313,Decision,Decision
+79,09/11/2019,Shamil Gamzatov,Klidson Abreu,Shamil Gamzatov,Red,Red,Winner,M,46,0.088790723,0.18,-0.211919331,Decision,Decision
+80,09/11/2019,Rustam Khabilov,Sergey Khandozhko,Sergey Khandozhko,Red,Blue,Loser,M,49,0.289026592,0.24,0.195084617,Decision,Decision
+81,09/11/2019,Alexander Yakovlev,Roosevelt Roberts,Alexander Yakovlev,Blue,Red,Loser,M,40,-0.311681015,0.08,-0.890259244,Decision,Decision
+82,09/11/2019,Jessica-Rose Clark,Pannie Kianzad,Pannie Kianzad,Blue,Blue,Winner,F,41,-0.244935725,0.27,0.398586591,Decision,Decision
+83,09/11/2019,Grigorii Popov,Davey Grant,Grigorii Popov,Blue,Red,Loser,M,39,-0.378426304,0.12,-0.618923278,Decision,Decision
+84,02/11/2019,Kelvin Gastelum,Darren Till,Darren Till,Blue,Blue,Winner,M,53,0.55600775,0.08,-0.890259244,Decision,Decision
+85,02/11/2019,Stephen Thompson,Vicente Luque,Stephen Thompson,Red,Red,Winner,M,57,0.822988909,0.27,0.398586591,Decision,Decision
+86,02/11/2019,Derrick Lewis,Blagoy Ivanov,Blagoy Ivanov,Red,Blue,Loser,M,52,0.489262461,0.09,-0.822425252,Decision,Decision
+87,02/11/2019,Katlyn Chookagian,Jennifer Maia,Katlyn Chookagian,Red,Red,Winner,F,40,-0.311681015,0.24,0.195084617,Decision,Decision
+88,02/11/2019,Julio Arce,Hakeem Dawodu,Hakeem Dawodu,Blue,Blue,Winner,M,39,-0.378426304,0.19,-0.144085339,Decision,Decision
+89,26/10/2019,Michael Johnson,Stevie Ray,Michael Johnson,Blue,Red,Loser,M,45,0.022045433,0.2,-0.076251348,Decision,Decision
+90,26/10/2019,Muslim Salikhov,Laureano Staropoli,Laureano Staropoli,Red,Blue,Loser,M,30,-0.979133911,0.16,-0.347587313,Decision,Decision
+91,26/10/2019,Randa Markos,Ashley Yoder,Randa Markos,Red,Red,Winner,F,55,0.689498329,0.18,-0.211919331,Decision,Decision
+92,26/10/2019,Alex White,Rafael Fiziev,Rafael Fiziev,Blue,Blue,Winner,M,50,0.355771881,0.15,-0.415421305,Decision,Decision
+93,26/10/2019,Enrique Barzola,Movsar Evloev,Enrique Barzola,Blue,Red,Loser,M,33,-0.778898042,0.27,0.398586591,Decision,Decision
+94,26/10/2019,Loma Lookboonmee,Alexandra Albu,Alexandra Albu,Red,Blue,Loser,F,41,-0.244935725,0.19,-0.144085339,Decision,Decision
+95,26/10/2019,Raphael Pessoa,Jeff Hughes,Raphael Pessoa,Red,Red,Winner,M,28,-1.11262449,0.16,-0.347587313,Decision,Decision
+96,18/10/2019,Yair Rodriguez,Jeremy Stephens,Jeremy Stephens,Red,Blue,Loser,M,52,0.489262461,0.17,-0.279753322,Decision,Decision
+97,18/10/2019,Deron Winn,Darren Stewart,Deron Winn,Blue,Red,Loser,M,54,0.62275304,0.11,-0.68675727,Decision,Decision
+98,18/10/2019,Molly McCann,Diana Belbita,Diana Belbita,Red,Blue,Loser,F,38,-0.445171594,0.29,0.534254574,Decision,Decision
+99,18/10/2019,Kyle Bochniak,Sean Woodson,Kyle Bochniak,Blue,Red,Loser,M,27,-1.17936978,0.18,-0.211919331,Decision,Decision
+100,18/10/2019,Court McGee,Sean Brady,Sean Brady,Blue,Blue,Winner,M,56,0.756243619,0.27,0.398586591,Decision,Decision
+101,18/10/2019,Daniel Spitz,Tanner Boser,Daniel Spitz,Blue,Red,Loser,M,29,-1.045879201,0.12,-0.618923278,Decision,Decision
+102,12/10/2019,Joanna Jedrzejczyk,Michelle Waterson,Michelle Waterson,Red,Blue,Loser,F,36,-0.578662173,0.12,-0.618923278,Decision,Decision
+103,12/10/2019,Cub Swanson,Kron Gracie,Cub Swanson,Red,Red,Winner,M,46,0.088790723,0.33,0.805590539,Decision,Decision
+104,12/10/2019,Mackenzie Dern,Amanda Ribas,Amanda Ribas,Blue,Blue,Winner,F,35,-0.645407463,0.24,0.195084617,Decision,Decision
+105,12/10/2019,Matt Frevola,Luis Pena,Matt Frevola,Red,Red,Winner,M,43,-0.111445146,0.13,-0.551089287,Decision,Decision
+106,12/10/2019,Eryk Anders,Gerald Meerschaert,Gerald Meerschaert,Red,Blue,Loser,M,35,-0.645407463,0.22,0.059416635,Decision,Decision
+107,12/10/2019,Max Griffin,Alex Morono,Max Griffin,Blue,Red,Loser,M,45,0.022045433,0.21,-0.008417357,Decision,Decision
+108,12/10/2019,Marvin Vettori,Andrew Sanchez,Andrew Sanchez,Red,Blue,Loser,M,21,-1.579841517,0.21,-0.008417357,Decision,Decision
+109,12/10/2019,JJ Aldrich,Lauren Mueller,JJ Aldrich,Red,Red,Winner,F,46,0.088790723,0.18,-0.211919331,Decision,Decision
+110,05/10/2019,Al Iaquinta,Dan Hooker,Dan Hooker,Blue,Blue,Winner,M,47,0.155536012,0.24,0.195084617,Decision,Decision
+111,05/10/2019,Luke Jumeau,Dhiego Lima,Luke Jumeau,Blue,Red,Loser,M,25,-1.312860359,0.11,-0.68675727,Decision,Decision
+112,05/10/2019,Jake Matthews,Rostem Akman,Rostem Akman,Red,Blue,Loser,M,13,-2.113803834,0.12,-0.618923278,Decision,Decision
+113,05/10/2019,Callan Potter,Maki Pitolo,Callan Potter,Red,Red,Winner,M,50,0.355771881,0.22,0.059416635,Decision,Decision
+114,05/10/2019,Brad Riddell,Jamie Mullarkey,Jamie Mullarkey,Red,Blue,Loser,M,37,-0.511916884,0.05,-1.093761218,Decision,Decision
+115,28/09/2019,Gunnar Nelson,Gilbert Burns,Gunnar Nelson,Blue,Red,Loser,M,55,0.689498329,0.05,-1.093761218,Decision,Decision
+116,28/09/2019,Nicolas Dalby,Alex Oliveira,Alex Oliveira,Red,Blue,Loser,M,38,-0.445171594,0.07,-0.958093235,Decision,Decision
+117,28/09/2019,Alessio Di Chirico,Makhmud Muradov,Alessio Di Chirico,Blue,Red,Loser,M,31,-0.912388621,0.13,-0.551089287,Decision,Decision
+118,28/09/2019,Siyar Bahadurzada,Ismail Naurdiev,Ismail Naurdiev,Blue,Blue,Winner,M,54,0.62275304,0.24,0.195084617,Decision,Decision
+119,28/09/2019,Brandon Davis,Giga Chikadze,Brandon Davis,Blue,Red,Loser,M,34,-0.712152753,0.11,-0.68675727,Decision,Decision
+120,28/09/2019,Macy Chiasson,Lina Lansberg,Lina Lansberg,Blue,Blue,Winner,F,53,0.55600775,0.1,-0.754591261,Decision,Decision
+121,28/09/2019,Marc Diaskiese,Lando Vannata,Marc Diaskiese,Red,Red,Winner,M,40,-0.311681015,0.12,-0.618923278,Decision,Decision
+122,21/09/2019,Carla Esparza,Alexa Grasso,Alexa Grasso,Red,Blue,Loser,F,43,-0.111445146,0.19,-0.144085339,Decision,Decision
+123,21/09/2019,Irene Aldana,Vanessa Melo,Irene Aldana,Red,Red,Winner,F,37,-0.511916884,0.37,1.076926505,Decision,Decision
+124,21/09/2019,Jose Quinonez,Carlos Huachin,Carlos Huachin,Red,Blue,Loser,M,27,-1.17936978,0.13,-0.551089287,Decision,Decision
+125,21/09/2019,Sergio Pettis,Tyson Nam,Sergio Pettis,Red,Red,Winner,M,37,-0.511916884,0.28,0.466420583,Decision,Decision
+126,21/09/2019,Sijara Eubanks,Bethe Correia,Bethe Correia,Blue,Blue,Winner,F,46,0.088790723,0.16,-0.347587313,Decision,Decision
+127,21/09/2019,Claudio Puelles,Marcos Mariano,Claudio Puelles,Red,Red,Winner,M,64,1.290205936,0.13,-0.551089287,Decision,Decision
+128,14/09/2019,Glover Teixeira,Nikita Krylov,Nikita Krylov,Red,Blue,Loser,M,49,0.289026592,0.14,-0.483255296,Decision,Decision
+129,14/09/2019,Michel Pereira,Tristan Connelly,Michel Pereira,Blue,Red,Loser,M,42,-0.178190436,0.12,-0.618923278,Decision,Decision
+130,14/09/2019,Uriah Hall,Antonio Carlos Junior,Antonio Carlos Junior,Red,Blue,Loser,M,31,-0.912388621,0.16,-0.347587313,Decision,Decision
+131,14/09/2019,Cole Smith,Miles Johns,Cole Smith,Blue,Red,Loser,M,19,-1.713332097,0.08,-0.890259244,Decision,Decision
+132,14/09/2019,Brad Katona,Hunter Azure,Hunter Azure,Blue,Blue,Winner,M,34,-0.712152753,0.15,-0.415421305,Decision,Decision
+133,14/09/2019,Chas Skelly,Jordan Griffin,Chas Skelly,Red,Red,Winner,M,35,-0.645407463,0.14,-0.483255296,Decision,Decision
+134,14/09/2019,Kyle Prepolec,Austin Hubbard,Austin Hubbard,Blue,Blue,Winner,M,45,0.022045433,0.27,0.398586591,Decision,Decision
+135,07/09/2019,Edson Barboza,Paul Felder,Edson Barboza,Blue,Red,Loser,M,52,0.489262461,0.15,-0.415421305,Decision,Decision
+136,07/09/2019,Islam Makhachev,Davi Ramos,Davi Ramos,Red,Blue,Loser,M,12,-2.180549124,0.09,-0.822425252,Decision,Decision
+137,07/09/2019,Mairbeck Taisumov,Diego Ferreira,Mairbeck Taisumov,Blue,Red,Loser,M,31,-0.912388621,0.18,-0.211919331,Decision,Decision
+138,07/09/2019,Joanne Calderwood,Andrea Lee,Andrea Lee,Red,Blue,Loser,F,44,-0.044699856,0.21,-0.008417357,Decision,Decision
+139,07/09/2019,Omari Akhmedov,Zak Cummings,Omari Akhmedov,Red,Red,Winner,M,33,-0.778898042,0.12,-0.618923278,Decision,Decision
+140,07/09/2019,Don Madge,Fares Ziam,Fares Ziam,Red,Blue,Loser,M,32,-0.845643332,0.11,-0.68675727,Decision,Decision
+141,31/08/2019,Kai Kara-France,Mark De La Rosa,Kai Kara-France,Red,Red,Winner,M,47,0.155536012,0.22,0.059416635,Decision,Decision
+142,31/08/2019,Kenan Song,Derrick Krantz,Derrick Krantz,Red,Blue,Loser,M,38,-0.445171594,0.12,-0.618923278,Decision,Decision
+143,31/08/2019,Yanan Wu,Mizuki Inoue,Yanan Wu,Blue,Red,Loser,F,45,0.022045433,0.31,0.669922557,Decision,Decision
+144,31/08/2019,Su Mudaerji,Andre Soukhamthath,Andre Soukhamthath,Red,Blue,Loser,M,31,-0.912388621,0.08,-0.890259244,Decision,Decision
+145,31/08/2019,Damir Ismagulov,Thiago Moises,Damir Ismagulov,Red,Red,Winner,M,37,-0.511916884,0.21,-0.008417357,Decision,Decision
+146,31/08/2019,Heili Alateng,Danaa Batgerel,Danaa Batgerel,Red,Blue,Loser,M,36,-0.578662173,0.3,0.602088565,Decision,Decision
+147,31/08/2019,Karol Rosa,Lara Procopio,Karol Rosa,Red,Red,Winner,F,48,0.222281302,0.29,0.534254574,Decision,Decision
+148,17/08/2019,Anthony Pettis,Nate Diaz,Nate Diaz,Blue,Blue,Winner,M,56,0.756243619,0.34,0.873424531,Decision,Decision
+149,17/08/2019,Yoel Romero,Paulo Costa,Yoel Romero,Blue,Red,Loser,M,44,-0.044699856,0.32,0.737756548,Decision,Decision
+150,17/08/2019,Derek Brunson,Ian Heinisch,Ian Heinisch,Red,Blue,Loser,M,40,-0.311681015,0.17,-0.279753322,Decision,Decision
+151,17/08/2019,Raphael Assuncao,Cory Sandhagen,Raphael Assuncao,Blue,Red,Loser,M,55,0.689498329,0.11,-0.68675727,Decision,Decision
+152,17/08/2019,Christos Giagos,Drakkar Klose,Drakkar Klose,Blue,Blue,Winner,M,61,1.089970067,0.25,0.262918609,Decision,Decision
+153,17/08/2019,Manny Bermudez,Casey Kenney,Manny Bermudez,Blue,Red,Loser,M,62,1.156715357,0.09,-0.822425252,Decision,Decision
+154,17/08/2019,Hannah Cifers,Jodie Esquibel,Jodie Esquibel,Red,Blue,Loser,F,33,-0.778898042,0.17,-0.279753322,Decision,Decision
+155,17/08/2019,Kyung Ho Kang,Brandon Davis,Kyung Ho Kang,Red,Red,Winner,M,49,0.289026592,0.2,-0.076251348,Decision,Decision
+156,17/08/2019,Sabina Mazo,Shana Dobson,Shana Dobson,Red,Blue,Loser,F,33,-0.778898042,0.2,-0.076251348,Decision,Decision
+157,10/08/2019,Valentina Shevchenko,Liz Carmouche,Valentina Shevchenko,Red,Red,Winner,F,36,-0.578662173,0.11,-0.68675727,Decision,Decision
+158,10/08/2019,Vicente Luque,Mike Perry,Mike Perry,Red,Blue,Loser,M,49,0.289026592,0.23,0.127250626,Decision,Decision
+159,10/08/2019,Eduardo Garagorri,Humberto Bandenay,Eduardo Garagorri,Red,Red,Winner,M,56,0.756243619,0.13,-0.551089287,Decision,Decision
+160,10/08/2019,Enrique Barzola,Bobby Moffett,Bobby Moffett,Red,Blue,Loser,M,38,-0.445171594,0.27,0.398586591,Decision,Decision
+161,10/08/2019,Gilbert Burns,Aleksi Kunchenko,Gilbert Burns,Red,Red,Winner,M,50,0.355771881,0.12,-0.618923278,Decision,Decision
+162,10/08/2019,Tecia Torres,Marina Rodriguez,Marina Rodriguez,Blue,Blue,Winner,F,50,0.355771881,0.21,-0.008417357,Decision,Decision
+163,10/08/2019,Geraldo de Freitas,Chris Gutierrez,Geraldo de Freitas,Blue,Red,Loser,M,35,-0.645407463,0.15,-0.415421305,Decision,Decision
+164,10/08/2019,Kazula Vargas,Alex Da Silva,Alex Da Silva,Blue,Blue,Winner,M,43,-0.111445146,0.14,-0.483255296,Decision,Decision
+165,03/08/2019,Colby Covington,Robbie Lawler,Colby Covington,Red,Red,Winner,M,34,-0.712152753,0.36,1.009092513,Decision,Decision
+166,03/08/2019,Darko Stosic,Kennedy Nzechukwu,Kennedy Nzechukwu,Blue,Blue,Winner,M,40,-0.311681015,0.14,-0.483255296,Decision,Decision
+167,03/08/2019,Mickey Gall,Salim Touahri,Mickey Gall,Red,Red,Winner,M,42,-0.178190436,0.15,-0.415421305,Decision,Decision
+168,03/08/2019,Miranda Granger,Hannah Goldy,Hannah Goldy,Red,Blue,Loser,F,33,-0.778898042,0.19,-0.144085339,Decision,Decision
+169,27/07/2019,Max Holloway,Frankie Edgar,Max Holloway,Red,Red,Winner,M,39,-0.378426304,0.22,0.059416635,Decision,Decision
+170,27/07/2019,Cristiane Justino,Felicia Spencer,Felicia Spencer,Red,Blue,Loser,F,44,-0.044699856,0.13,-0.551089287,Decision,Decision
+171,27/07/2019,Olivier Aubin-Mercier,Arman Tsarukyan,Olivier Aubin-Mercier,Blue,Red,Loser,M,47,0.155536012,0.07,-0.958093235,Decision,Decision
+172,27/07/2019,Marc-Andre Barriault,Krzysztof Jotko,Krzysztof Jotko,Blue,Blue,Winner,M,34,-0.712152753,0.2,-0.076251348,Decision,Decision
+173,27/07/2019,Alexis Davis,Viviane Araujo,Alexis Davis,Blue,Red,Loser,F,49,0.289026592,0.24,0.195084617,Decision,Decision
+174,27/07/2019,Alexandre Pantoja,Deiveson Figueiredo,Deiveson Figueiredo,Blue,Blue,Winner,M,59,0.956479488,0.13,-0.551089287,Decision,Decision
+175,27/07/2019,Erik Koch,Kyle Stewart,Erik Koch,Red,Red,Winner,M,58,0.889734198,0.11,-0.68675727,Decision,Decision
+176,20/07/2019,Rafael Dos Anjos,Leon Edwards,Leon Edwards,Blue,Blue,Winner,M,42,-0.178190436,0.16,-0.347587313,Decision,Decision
+177,20/07/2019,Alexander Hernandez,Francisco Trinaldo,Alexander Hernandez,Red,Red,Winner,M,27,-1.17936978,0.1,-0.754591261,Decision,Decision
+178,20/07/2019,Andrei Arlovski,Ben Rothwell,Ben Rothwell,Red,Blue,Loser,M,39,-0.378426304,0.2,-0.076251348,Decision,Decision
+179,20/07/2019,Alex Caceres,Steven Peterson,Alex Caceres,Red,Red,Winner,M,47,0.155536012,0.22,0.059416635,Decision,Decision
+180,20/07/2019,Raquel Pennington,Irene Aldana,Irene Aldana,Red,Blue,Loser,F,28,-1.11262449,0.23,0.127250626,Decision,Decision
+181,20/07/2019,Sam Alvey,Klidson Abreu,Sam Alvey,Blue,Red,Loser,M,36,-0.578662173,0.13,-0.551089287,Decision,Decision
+182,20/07/2019,Roxanne Modafferi,Jennifer Maia,Jennifer Maia,Blue,Blue,Winner,F,47,0.155536012,0.23,0.127250626,Decision,Decision
+183,20/07/2019,Ray Borg,Gabriel Silva,Ray Borg,Red,Red,Winner,M,65,1.356951226,0.04,-1.161595209,Decision,Decision
+184,20/07/2019,Mario Bautista,Jinsoo Son,Jinsoo Son,Red,Blue,Loser,M,47,0.155536012,0.24,0.195084617,Decision,Decision
+185,20/07/2019,Domingo Pilarte,Felipe Colares,Domingo Pilarte,Blue,Red,Loser,M,52,0.489262461,0.1,-0.754591261,Decision,Decision
+186,13/07/2019,Karl Roberson,Wellington Turman,Wellington Turman,Red,Blue,Loser,M,49,0.289026592,0.07,-0.958093235,Decision,Decision
+187,13/07/2019,Marvin Vettori,Cezar Ferreira,Marvin Vettori,Red,Red,Winner,M,52,0.489262461,0.2,-0.076251348,Decision,Decision
+188,13/07/2019,Julianna Pena,Nicco Montano,Nicco Montano,Red,Blue,Loser,F,48,0.222281302,0.11,-0.68675727,Decision,Decision
+189,13/07/2019,Darren Elkins,Ryan Hall,Darren Elkins,Blue,Red,Loser,M,23,-1.446350938,0.14,-0.483255296,Decision,Decision
+190,13/07/2019,Livinha Souza,Brianna Van Buren,Brianna Van Buren,Blue,Blue,Winner,F,38,-0.445171594,0.23,0.127250626,Decision,Decision
+191,13/07/2019,Benito Lopez,Vince Morales,Benito Lopez,Red,Red,Winner,M,40,-0.311681015,0.15,-0.415421305,Decision,Decision
+192,06/07/2019,Jon Jones,Thiago Santos,Thiago Santos,Red,Blue,Loser,M,25,-1.312860359,0.11,-0.68675727,Decision,Decision
+193,06/07/2019,Diego Sanchez,Michael Chiesa,Diego Sanchez,Blue,Red,Loser,M,63,1.223460646,0.03,-1.2294292,Decision,Decision
+194,06/07/2019,Gilbert Melendez,Arnold Allen,Arnold Allen,Blue,Blue,Winner,M,53,0.55600775,0.21,-0.008417357,Decision,Decision
+195,06/07/2019,Claudia Gadelha,Randa Markos,Claudia Gadelha,Red,Red,Winner,F,37,-0.511916884,0.12,-0.618923278,Decision,Decision
+196,06/07/2019,Ismail Naurdiev,Chance Rencountre,Chance Rencountre,Blue,Blue,Winner,M,16,-1.913567966,0.12,-0.618923278,Decision,Decision
+197,06/07/2019,Julia Avila,Pannie Kianzad,Julia Avila,Red,Red,Winner,F,40,-0.311681015,0.16,-0.347587313,Decision,Decision
+198,29/06/2019,Demian Maia,Anthony Rocco Martin,Anthony Rocco Martin,Red,Blue,Loser,M,23,-1.446350938,0.12,-0.618923278,Decision,Decision
+199,29/06/2019,Roosevelt Roberts,Vinc Pichel,Roosevelt Roberts,Blue,Red,Loser,M,35,-0.645407463,0.1,-0.754591261,Decision,Decision
+200,29/06/2019,Ricardo Ramos,Journey Newson,Journey Newson,Red,Blue,Loser,M,30,-0.979133911,0.14,-0.483255296,Decision,Decision
+201,29/06/2019,Jared Gordon,Dan Moret,Jared Gordon,Red,Red,Winner,M,60,1.023224777,0.24,0.195084617,Decision,Decision
+202,22/06/2019,Andre Ewell,Anderson Dos Santos,Anderson Dos Santos,Red,Blue,Loser,M,26,-1.246115069,0.18,-0.211919331,Decision,Decision
+203,22/06/2019,Andrea Lee,Montana De La Rosa,Andrea Lee,Red,Red,Winner,F,57,0.822988909,0.15,-0.415421305,Decision,Decision
+204,22/06/2019,Kevin Holland,Alessio Di Chirico,Alessio Di Chirico,Red,Blue,Loser,M,60,1.023224777,0.11,-0.68675727,Decision,Decision
+205,22/06/2019,Dan Ige,Kevin Aguilar,Dan Ige,Red,Red,Winner,M,56,0.756243619,0.16,-0.347587313,Decision,Decision
+206,22/06/2019,Ashley Yoder,Syuri Kondo,Syuri Kondo,Red,Blue,Loser,F,57,0.822988909,0.06,-1.025927226,Decision,Decision
+207,22/06/2019,Ariane Lipski,Molly McCann,Ariane Lipski,Blue,Red,Loser,F,25,-1.312860359,0.3,0.602088565,Decision,Decision
+208,22/06/2019,Deron Winn,Eric Spicely,Eric Spicely,Red,Blue,Loser,M,48,0.222281302,0.25,0.262918609,Decision,Decision
+209,08/06/2019,Jimmie Rivera,Petr Yan,Jimmie Rivera,Blue,Red,Loser,M,38,-0.445171594,0.22,0.059416635,Decision,Decision
+210,08/06/2019,Tai Tuivasa,Blagoy Ivanov,Blagoy Ivanov,Blue,Blue,Winner,M,59,0.956479488,0.15,-0.415421305,Decision,Decision
+211,08/06/2019,Tatiana Suarez,Nina Ansaroff,Tatiana Suarez,Red,Red,Winner,F,52,0.489262461,0.18,-0.211919331,Decision,Decision
+212,08/06/2019,Aljamain Sterling,Pedro Munhoz,Pedro Munhoz,Red,Blue,Loser,M,39,-0.378426304,0.3,0.602088565,Decision,Decision
+213,08/06/2019,Karolina Kowalkiexicz,Alexa Grasso,Karolina Kowalkiexicz,Blue,Red,Loser,F,38,-0.445171594,0.26,0.3307526,Decision,Decision
+214,08/06/2019,Xiaonan Yan,Angela Hill,Angela Hill,Red,Blue,Loser,F,49,0.289026592,0.17,-0.279753322,Decision,Decision
+215,08/06/2019,Bevon Lewis,Darren Stewart,Bevon Lewis,Blue,Red,Loser,M,36,-0.578662173,0.11,-0.68675727,Decision,Decision
+216,08/06/2019,Katlyn Chookagian,Joanne Calderwood,Joanne Calderwood,Red,Blue,Loser,F,42,-0.178190436,0.33,0.805590539,Decision,Decision
+217,01/06/2019,Damir Hadzovic,Christos Giagos,Damir Hadzovic,Blue,Red,Loser,M,39,-0.378426304,0.1,-0.754591261,Decision,Decision
+218,01/06/2019,Daniel Teymur,Sung Bin Jo,Sung Bin Jo,Red,Blue,Loser,M,33,-0.778898042,0.07,-0.958093235,Decision,Decision
+219,01/06/2019,Rostem Akman,Sergey Khandozhko,Rostem Akman,Blue,Red,Loser,M,39,-0.378426304,0.11,-0.68675727,Decision,Decision
+220,01/06/2019,Tonya Evinger,Lina Lansberg,Lina Lansberg,Blue,Blue,Winner,F,73,1.890913542,0.2,-0.076251348,Decision,Decision
+221,01/06/2019,Darko Stosic,Devin Clark,Darko Stosic,Blue,Red,Loser,M,47,0.155536012,0.09,-0.822425252,Decision,Decision
+222,18/05/2019,Antonio Carlos Junior,Ian Heinisch,Ian Heinisch,Blue,Blue,Winner,M,58,0.889734198,0.13,-0.551089287,Decision,Decision
+223,18/05/2019,Davi Ramos,Austin Hubbard,Davi Ramos,Red,Red,Winner,M,55,0.689498329,0.14,-0.483255296,Decision,Decision
+224,18/05/2019,Aspen Ladd,Sijara Eubanks,Sijara Eubanks,Red,Blue,Loser,F,46,0.088790723,0.19,-0.144085339,Decision,Decision
+225,18/05/2019,Desmond Green,Charles Jourdain,Desmond Green,Red,Red,Winner,M,54,0.62275304,0.17,-0.279753322,Decision,Decision
+226,11/05/2019,Jose Aldo,Alexander Volkanovski,Alexander Volkanovski,Blue,Blue,Winner,M,53,0.55600775,0.24,0.195084617,Decision,Decision
+227,11/05/2019,Thiago Alves,Laureano Staropoli,Thiago Alves,Blue,Red,Loser,M,39,-0.378426304,0.16,-0.347587313,Decision,Decision
+228,11/05/2019,Thiago Moises,Kurt Holobaugh,Kurt Holobaugh,Red,Blue,Loser,M,33,-0.778898042,0.21,-0.008417357,Decision,Decision
+229,11/05/2019,BJ Penn,Clay Guida,BJ Penn,Blue,Red,Loser,M,36,-0.578662173,0.21,-0.008417357,Decision,Decision
+230,11/05/2019,Luana Carolina,Priscila Cachoeira,Priscila Cachoeira,Red,Blue,Loser,F,46,0.088790723,0.17,-0.279753322,Decision,Decision
+231,04/05/2019,Al Iaquinta,Donald Cerrone,Al Iaquinta,Blue,Red,Loser,M,40,-0.311681015,0.15,-0.415421305,Decision,Decision
+232,04/05/2019,Derek Brunson,Elias Theodorou,Elias Theodorou,Red,Blue,Loser,M,38,-0.445171594,0.22,0.059416635,Decision,Decision
+233,04/05/2019,Cub Swanson,Shane Burgos,Cub Swanson,Blue,Red,Loser,M,50,0.355771881,0.29,0.534254574,Decision,Decision
+234,04/05/2019,Brad Katona,Merab Dvalishvili,Merab Dvalishvili,Blue,Blue,Winner,M,53,0.55600775,0.3,0.602088565,Decision,Decision
+235,04/05/2019,Marc-Andre Barriault,Andrew Sanchez,Marc-Andre Barriault,Blue,Red,Loser,M,53,0.55600775,0.15,-0.415421305,Decision,Decision
+236,04/05/2019,Aiemann Zahabi,Vince Morales,Vince Morales,Blue,Blue,Winner,M,30,-0.979133911,0.22,0.059416635,Decision,Decision
+237,04/05/2019,Nordine Taleb,Kyle Prepolec,Nordine Taleb,Red,Red,Winner,M,44,-0.044699856,0.22,0.059416635,Decision,Decision
+238,04/05/2019,Arjan Bhullar,Juan Adams,Juan Adams,Red,Blue,Loser,M,43,-0.111445146,0.24,0.195084617,Decision,Decision
+239,04/05/2019,Mitch Gagnon,Cole Smith,Mitch Gagnon,Blue,Red,Loser,M,27,-1.17936978,0.07,-0.958093235,Decision,Decision
+240,27/04/2019,Jacare Souza,Jack Hermansson,Jack Hermansson,Blue,Blue,Winner,M,39,-0.378426304,0.33,0.805590539,Decision,Decision
+241,27/04/2019,Alex Oliveira,Mike Perry,Alex Oliveira,Blue,Red,Loser,M,35,-0.645407463,0.15,-0.415421305,Decision,Decision
+242,27/04/2019,John Lineker,Cory Sandhagen,Cory Sandhagen,Blue,Blue,Winner,M,43,-0.111445146,0.31,0.669922557,Decision,Decision
+243,27/04/2019,Roosevelt Roberts,Thomas Gifford,Roosevelt Roberts,Red,Red,Winner,M,62,1.156715357,0.15,-0.415421305,Decision,Decision
+244,27/04/2019,Andrei Arlovski,Augusto Sakai,Augusto Sakai,Blue,Blue,Winner,M,31,-0.912388621,0.16,-0.347587313,Decision,Decision
+245,27/04/2019,Carla Esparza,Virna Jandiroba,Carla Esparza,Red,Red,Winner,F,49,0.289026592,0.14,-0.483255296,Decision,Decision
+246,27/04/2019,Angela Hill,Jodie Esquibel,Jodie Esquibel,Red,Blue,Loser,F,19,-1.713332097,0.32,0.737756548,Decision,Decision
+247,27/04/2019,Court McGee,Dhiego Lima,Court McGee,Blue,Red,Loser,M,28,-1.11262449,0.26,0.3307526,Decision,Decision
+248,20/04/2019,Islam Makhachev,Arman Tsarukyan,Arman Tsarukyan,Red,Blue,Loser,M,30,-0.979133911,0.1,-0.754591261,Decision,Decision
+249,20/04/2019,Roxanne Modafferi,Antonina Shevchenko,Roxanne Modafferi,Red,Red,Winner,F,41,-0.244935725,0.18,-0.211919331,Decision,Decision
+250,20/04/2019,Krzysztof Jotko,Alen Amedovski,Alen Amedovski,Red,Blue,Loser,M,35,-0.645407463,0.02,-1.297263192,Decision,Decision
+251,20/04/2019,Movsar Evloev,SeungWoo Choi,Movsar Evloev,Red,Red,Winner,M,64,1.290205936,0.17,-0.279753322,Decision,Decision
+252,20/04/2019,Sultan Aliev,Keita Nakamura,Keita Nakamura,Red,Blue,Loser,M,35,-0.645407463,0.12,-0.618923278,Decision,Decision
+253,13/04/2019,Max Holloway,Dustin Poirer,Max Holloway,Blue,Red,Loser,M,40,-0.311681015,0.32,0.737756548,Decision,Decision
+254,13/04/2019,Kelvin Gastelum,Israel Adesanya,Israel Adesanya,Blue,Blue,Winner,M,45,0.022045433,0.16,-0.347587313,Decision,Decision
+255,13/04/2019,Eryk Anders,Khalil Rountree Jr,Eryk Anders,Blue,Red,Loser,M,23,-1.446350938,0.08,-0.890259244,Decision,Decision
+256,13/04/2019,Alan Jouban,Dwight Grant,Dwight Grant,Blue,Blue,Winner,M,31,-0.912388621,0.14,-0.483255296,Decision,Decision
+257,13/04/2019,Jalin Turner,Matt Frevola,Jalin Turner,Blue,Red,Loser,M,30,-0.979133911,0.14,-0.483255296,Decision,Decision
+258,13/04/2019,Max Griffin,Zelim Imadaev,Zelim Imadaev,Red,Blue,Loser,M,42,-0.178190436,0.18,-0.211919331,Decision,Decision
+259,13/04/2019,Curtis Millender,Belal Muhammad,Curtis Millender,Blue,Red,Loser,M,50,0.355771881,0.11,-0.68675727,Decision,Decision
+260,13/04/2019,Montel Jackson,Andre Soukhamthath,Andre Soukhamthath,Red,Blue,Loser,M,48,0.222281302,0.08,-0.890259244,Decision,Decision
+261,13/04/2019,Lauren Mueller,Poliana Botelho,Lauren Mueller,Blue,Red,Loser,F,40,-0.311681015,0.2,-0.076251348,Decision,Decision
+262,30/03/2019,Karolina Kowalkiexicz,Michelle Waterson,Michelle Waterson,Blue,Blue,Winner,F,42,-0.178190436,0.19,-0.144085339,Decision,Decision
+263,30/03/2019,Sodiq Yusuff,Sheymon Moraes,Sodiq Yusuff,Red,Red,Winner,M,49,0.289026592,0.2,-0.076251348,Decision,Decision
+264,30/03/2019,Marina Rodriguez,Jessica Aguilar,Jessica Aguilar,Red,Blue,Loser,F,43,-0.111445146,0.14,-0.483255296,Decision,Decision
+265,30/03/2019,Enrique Barzola,Kevin Aguilar,Enrique Barzola,Blue,Red,Loser,M,41,-0.244935725,0.14,-0.483255296,Decision,Decision
+266,30/03/2019,Kevin Holland,Gerald Meerschaert,Gerald Meerschaert,Red,Blue,Loser,M,76,2.091149411,0.06,-1.025927226,Decision,Decision
+267,30/03/2019,Ray Borg,Casey Kenney,Ray Borg,Blue,Red,Loser,M,48,0.222281302,0.04,-1.161595209,Decision,Decision
+268,30/03/2019,Sabina Mazo,Maryna Moroz,Maryna Moroz,Blue,Blue,Winner,F,29,-1.045879201,0.23,0.127250626,Decision,Decision
+269,30/03/2019,Alex Perez,Mark De La Rosa,Alex Perez,Red,Red,Winner,M,54,0.62275304,0.24,0.195084617,Decision,Decision
+270,23/03/2019,Curtis Blaydes,Justin Willis,Justin Willis,Red,Blue,Loser,M,22,-1.513096228,0.02,-1.297263192,Decision,Decision
+271,23/03/2019,John Makdessi,Jesus Pinedo,John Makdessi,Red,Red,Winner,M,53,0.55600775,0.15,-0.415421305,Decision,Decision
+272,23/03/2019,Jussier Formiga,Deiveson Figueiredo,Deiveson Figueiredo,Red,Blue,Loser,M,28,-1.11262449,0.09,-0.822425252,Decision,Decision
+273,23/03/2019,Luis Pena,Steven Peterson,Luis Pena,Red,Red,Winner,M,46,0.088790723,0.14,-0.483255296,Decision,Decision
+274,23/03/2019,Bryce Mitchell,Bobby Moffett,Bobby Moffett,Red,Blue,Loser,M,21,-1.579841517,0.07,-0.958093235,Decision,Decision
+275,23/03/2019,Alexis Davis,Jennifer Maia,Alexis Davis,Blue,Red,Loser,F,59,0.956479488,0.19,-0.144085339,Decision,Decision
+276,23/03/2019,Ryan MacDonald,Chris Gutierrez,Chris Gutierrez,Blue,Blue,Winner,M,57,0.822988909,0.14,-0.483255296,Decision,Decision
+277,23/03/2019,Eric Shelton,Jordan Espinosa,Eric Shelton,Blue,Red,Loser,M,30,-0.979133911,0.09,-0.822425252,Decision,Decision
+278,16/03/2019,Leon Edwards,Gunnar Nelson,Gunnar Nelson,Red,Blue,Loser,M,50,0.355771881,0.04,-1.161595209,Decision,Decision
+279,16/03/2019,Volkan Oezdemir,Dominick Reyes,Volkan Oezdemir,Blue,Red,Loser,M,35,-0.645407463,0.12,-0.618923278,Decision,Decision
+280,16/03/2019,Jack Marshman,John Phillips,John Phillips,Red,Blue,Loser,M,33,-0.778898042,0.11,-0.68675727,Decision,Decision
+281,16/03/2019,Arnold Allen,Jordan Rinaldi,Arnold Allen,Red,Red,Winner,M,33,-0.778898042,0.13,-0.551089287,Decision,Decision
+282,16/03/2019,Marc Diaskiese,Joe Duffy,Joe Duffy,Red,Blue,Loser,M,25,-1.312860359,0.08,-0.890259244,Decision,Decision
+283,16/03/2019,Nicolae Negumereanu,Sapabeg Safarov,Nicolae Negumereanu,Blue,Red,Loser,M,40,-0.311681015,0.04,-1.161595209,Decision,Decision
+284,16/03/2019,Molly McCann,Priscila Cachoeira,Priscila Cachoeira,Red,Blue,Loser,F,32,-0.845643332,0.26,0.3307526,Decision,Decision
+285,09/03/2019,Blagoy Ivanov,Ben Rothwell,Blagoy Ivanov,Red,Red,Winner,M,40,-0.311681015,0.2,-0.076251348,Decision,Decision
+286,09/03/2019,Tim Boetsch,Omari Akhmedov,Omari Akhmedov,Blue,Blue,Winner,M,38,-0.445171594,0.16,-0.347587313,Decision,Decision
+287,09/03/2019,Anthony Rocco Martin,Sergio Moraes,Anthony Rocco Martin,Red,Red,Winner,M,32,-0.845643332,0.19,-0.144085339,Decision,Decision
+288,09/03/2019,Marion Reneau,Yana Kunitskaya,Yana Kunitskaya,Blue,Blue,Winner,F,43,-0.111445146,0.27,0.398586591,Decision,Decision
+289,09/03/2019,Grant Dawson,Julian Erosa,Grant Dawson,Red,Red,Winner,M,44,-0.044699856,0.18,-0.211919331,Decision,Decision
+290,09/03/2019,Maurice Greene,Jeff Hughes,Jeff Hughes,Red,Blue,Loser,M,46,0.088790723,0.16,-0.347587313,Decision,Decision
+291,09/03/2019,Alex White,Dan Moret,Alex White,Red,Red,Winner,M,59,0.956479488,0.12,-0.618923278,Decision,Decision
+292,02/03/2019,Jon Jones,Anthony Smith,Anthony Smith,Red,Blue,Loser,M,54,0.62275304,0.05,-1.093761218,Decision,Decision
+293,02/03/2019,Tyron Woodley,Kamaru Usman,Tyron Woodley,Blue,Red,Loser,M,66,1.423696515,0.05,-1.093761218,Decision,Decision
+294,02/03/2019,Tecia Torres,Weili Zhang,Weili Zhang,Blue,Blue,Winner,F,44,-0.044699856,0.23,0.127250626,Decision,Decision
+295,02/03/2019,Jeremy Stephens,Zabit Magomedsharipov,Jeremy Stephens,Blue,Red,Loser,M,33,-0.778898042,0.14,-0.483255296,Decision,Decision
+296,02/03/2019,Cody Stamann,Alejandro Perez,Alejandro Perez,Red,Blue,Loser,M,33,-0.778898042,0.15,-0.415421305,Decision,Decision
+297,02/03/2019,Polyana Viana,Hannah Cifers,Polyana Viana,Blue,Red,Loser,F,44,-0.044699856,0.26,0.3307526,Decision,Decision
+298,23/02/2019,Liz Carmouche,Lucie Pudilova,Lucie Pudilova,Red,Blue,Loser,F,31,-0.912388621,0.15,-0.415421305,Decision,Decision
+299,23/02/2019,John Dodson,Petr Yan,John Dodson,Blue,Red,Loser,M,37,-0.511916884,0.1,-0.754591261,Decision,Decision
+300,23/02/2019,Magomed Ankalaev,Klidson Abreu,Klidson Abreu,Red,Blue,Loser,M,37,-0.511916884,0.08,-0.890259244,Decision,Decision
+301,23/02/2019,Michel Prazeres,Ismail Naurdiev,Michel Prazeres,Blue,Red,Loser,M,42,-0.178190436,0.05,-1.093761218,Decision,Decision
+302,23/02/2019,Rustam Khabilov,Diego Ferreira,Diego Ferreira,Blue,Blue,Winner,M,29,-1.045879201,0.33,0.805590539,Decision,Decision
+303,23/02/2019,Damir Ismagulov,Joel Alvarez,Damir Ismagulov,Red,Red,Winner,M,42,-0.178190436,0.17,-0.279753322,Decision,Decision
+304,14/03/2020,Demian Maia,Gilbert Burns,Gilbert Burns,Blue,Blue,Winner,M,81,2.424875859,0.11,-0.68675727,KO/TKO,Defeat
+305,07/03/2020,Beneil Dariush,Drakkar Klose,Beneil Dariush,Red,Red,Winner,M,60,1.023224777,0.08,-0.890259244,KO/TKO,Defeat
+306,07/03/2020,Sean O'Malley,Jose Quinonez,Jose Quinonez,Red,Blue,Loser,M,0,-2.981492599,0.09,-0.822425252,KO/TKO,Defeat
+307,07/03/2020,Danaa Batgerel,Guido Cannetti,Danaa Batgerel,Red,Red,Winner,M,51,0.422517171,0.18,-0.211919331,KO/TKO,Defeat
+308,29/02/2020,Joseph Benavidez,Deiveson Figueiredo,Deiveson Figueiredo,Blue,Blue,Winner,M,51,0.422517171,0.12,-0.618923278,KO/TKO,Defeat
+309,29/02/2020,Felicia Spencer,Zarah Fairn,Felicia Spencer,Red,Red,Winner,F,62,1.156715357,0.45,1.619598435,KO/TKO,Defeat
+310,29/02/2020,Ion Cutelaba,Magomed Ankalaev,Magomed Ankalaev,Blue,Blue,Winner,M,66,1.423696515,0.32,0.737756548,KO/TKO,Defeat
+311,29/02/2020,Megan Anderson,Norma Dumont,Megan Anderson,Red,Red,Winner,F,50,0.355771881,0.18,-0.211919331,KO/TKO,Defeat
+312,29/02/2020,Brendan Allen,Tom Breese,Tom Breese,Red,Blue,Loser,M,80,2.35813057,0.02,-1.297263192,KO/TKO,Defeat
+313,29/02/2020,Aalon Cruz,Spike Carlyle,Aalon Cruz,Blue,Red,Loser,M,16,-1.913567966,0.14,-0.483255296,KO/TKO,Defeat
+314,22/02/2020,Ben Sosoli,Marcos Rogerio de Lima,Marcos Rogerio de Lima,Blue,Blue,Winner,M,55,0.689498329,0.39,1.212594487,KO/TKO,Defeat
+315,22/02/2020,Kevin Aguilar,Zubaira Tukhugov,Kevin Aguilar,Blue,Red,Loser,M,32,-0.845643332,0.14,-0.483255296,KO/TKO,Defeat
+316,22/02/2020,Jalin Turner,Josh Culibao,Josh Culibao,Red,Blue,Loser,M,42,-0.178190436,0.06,-1.025927226,KO/TKO,Defeat
+317,22/02/2020,Callan Potter,Kenan Song,Callan Potter,Blue,Red,Loser,M,46,0.088790723,0.12,-0.618923278,KO/TKO,Defeat
+318,22/02/2020,Priscila Cachoeira,Shana Dobson,Shana Dobson,Red,Blue,Loser,F,45,0.022045433,0.28,0.466420583,KO/TKO,Defeat
+319,15/02/2020,Corey Anderson,Jan Blachowicz,Corey Anderson,Blue,Red,Loser,M,40,-0.311681015,0.14,-0.483255296,KO/TKO,Defeat
+320,15/02/2020,John Dodson,Nathaniel Wood,Nathaniel Wood,Red,Blue,Loser,M,46,0.088790723,0.2,-0.076251348,KO/TKO,Defeat
+321,15/02/2020,Mark De La Rosa,Raulian Paiva,Mark De La Rosa,Blue,Red,Loser,M,36,-0.578662173,0.21,-0.008417357,KO/TKO,Defeat
+322,08/02/2020,Valentina Shevchenko,Katlyn Chookagian,Katlyn Chookagian,Red,Blue,Loser,F,30,-0.979133911,0.1,-0.754591261,KO/TKO,Defeat
+323,08/02/2020,Juan Adams,Justin Tafa,Juan Adams,Blue,Red,Loser,M,63,1.223460646,0.09,-0.822425252,KO/TKO,Defeat
+324,08/02/2020,Alex Morono,Khaos Williams,Khaos Williams,Blue,Blue,Winner,M,58,0.889734198,0.63,2.840610279,KO/TKO,Defeat
+325,08/02/2020,Miles Johns,Mario Bautista,Miles Johns,Blue,Red,Loser,M,29,-1.045879201,0.03,-1.2294292,KO/TKO,Defeat
+326,25/01/2020,Curtis Blaydes,Junior Dos Santos,Junior Dos Santos,Red,Blue,Loser,M,23,-1.446350938,0.08,-0.890259244,KO/TKO,Defeat
+327,25/01/2020,Hannah Cifers,Angela Hill,Hannah Cifers,Blue,Red,Loser,F,42,-0.178190436,0.2,-0.076251348,KO/TKO,Defeat
+328,25/01/2020,Herbert Burns,Nate Landwehr,Nate Landwehr,Red,Blue,Loser,M,44,-0.044699856,0.07,-0.958093235,KO/TKO,Defeat
+329,18/01/2020,Conor McGregor,Donald Cerrone,Conor McGregor,Red,Red,Winner,M,73,1.890913542,0.68,3.179780236,KO/TKO,Defeat
+330,18/01/2020,Drew Dober,Nasrat Haqparast,Nasrat Haqparast,Red,Blue,Loser,M,63,1.223460646,0.16,-0.347587313,KO/TKO,Defeat
+331,21/12/2019,Frankie Edgar,Chan Sung Jung,Frankie Edgar,Blue,Red,Loser,M,64,1.290205936,0.07,-0.958093235,KO/TKO,Defeat
+332,21/12/2019,Dooho Choi,Charles Jourdain,Charles Jourdain,Blue,Blue,Winner,M,49,0.289026592,0.24,0.195084617,KO/TKO,Defeat
+333,21/12/2019,Da-Un Jung,Mike Rodriguez,Da-Un Jung,Red,Red,Winner,M,50,0.355771881,0.16,-0.347587313,KO/TKO,Defeat
+334,21/12/2019,Alexandre Pantoja,Matt Schnell,Matt Schnell,Red,Blue,Loser,M,38,-0.445171594,0.26,0.3307526,KO/TKO,Defeat
+335,14/12/2019,Kamaru Usman,Colby Covington,Kamaru Usman,Red,Red,Winner,M,48,0.222281302,0.25,0.262918609,KO/TKO,Defeat
+336,14/12/2019,Petr Yan,Urijah Faber,Urijah Faber,Red,Blue,Loser,M,23,-1.446350938,0.13,-0.551089287,KO/TKO,Defeat
+337,14/12/2019,Geoff Neal,Mike Perry,Geoff Neal,Red,Red,Winner,M,65,1.356951226,0.26,0.3307526,KO/TKO,Defeat
+338,14/12/2019,Ketlen Vieira,Irene Aldana,Irene Aldana,Blue,Blue,Winner,F,36,-0.578662173,0.24,0.195084617,KO/TKO,Defeat
+339,14/12/2019,Matt Brown,Ben Saunders,Matt Brown,Red,Red,Winner,M,63,1.223460646,0.17,-0.279753322,KO/TKO,Defeat
+340,14/12/2019,Chase Hooper,Daniel Teymur,Daniel Teymur,Red,Blue,Loser,M,33,-0.778898042,0.02,-1.297263192,KO/TKO,Defeat
+341,14/12/2019,Punahele Soriano,Oskar Piechota,Punahele Soriano,Red,Red,Winner,M,59,0.956479488,0.23,0.127250626,KO/TKO,Defeat
+342,07/12/2019,Alistair Overeem,Jairzinho Rozenstruik,Jairzinho Rozenstruik,Blue,Blue,Winner,M,42,-0.178190436,0.15,-0.415421305,KO/TKO,Defeat
+343,07/12/2019,Stefan Struve,Ben Rothwell,Stefan Struve,Blue,Red,Loser,M,68,1.557187094,0.24,0.195084617,KO/TKO,Defeat
+344,07/12/2019,Aspen Ladd,Yana Kunitskaya,Yana Kunitskaya,Red,Blue,Loser,F,58,0.889734198,0.84,4.265124097,KO/TKO,Defeat
+345,07/12/2019,Makhmud Muradov,Trevor Smith,Makhmud Muradov,Red,Red,Winner,M,49,0.289026592,0.5,1.958768392,KO/TKO,Defeat
+346,16/11/2019,Charles Oliveira,Jared Gordon,Jared Gordon,Red,Blue,Loser,M,38,-0.445171594,0.21,-0.008417357,KO/TKO,Defeat
+347,16/11/2019,Sergio Moraes,James Krause,Sergio Moraes,Blue,Red,Loser,M,41,-0.244935725,0.26,0.3307526,KO/TKO,Defeat
+348,09/11/2019,Zelim Imadaev,Danny Roberts,Danny Roberts,Blue,Blue,Winner,M,60,1.023224777,0.19,-0.144085339,KO/TKO,Defeat
+349,09/11/2019,Magomed Ankalaev,Dalcha Lungiambula,Magomed Ankalaev,Red,Red,Winner,M,65,1.356951226,0.83,4.197290105,KO/TKO,Defeat
+350,02/11/2019,Kevin Lee,Gregor Gillespie,Gregor Gillespie,Red,Blue,Loser,M,19,-1.713332097,0.28,0.466420583,KO/TKO,Defeat
+351,02/11/2019,Corey Anderson,Johnny Walker,Corey Anderson,Red,Red,Winner,M,56,0.756243619,0.34,0.873424531,KO/TKO,Defeat
+352,02/11/2019,Shane Burgos,Makwan Amirkhani,Makwan Amirkhani,Red,Blue,Loser,M,45,0.022045433,0.13,-0.551089287,KO/TKO,Defeat
+353,02/11/2019,Brad Tavares,Edmen Shahbazyan,Brad Tavares,Blue,Red,Loser,M,13,-2.113803834,0.16,-0.347587313,KO/TKO,Defeat
+354,02/11/2019,Andrei Arlovski,Jairzinho Rozenstruik,Jairzinho Rozenstruik,Blue,Blue,Winner,M,55,0.689498329,0.31,0.669922557,KO/TKO,Defeat
+355,02/11/2019,Lyman Good,Chance Rencountre,Lyman Good,Red,Red,Winner,M,50,0.355771881,0.58,2.501440322,KO/TKO,Defeat
+356,26/10/2019,Maurice Greene,Sergei Pavlovich,Sergei Pavlovich,Blue,Blue,Winner,M,54,0.62275304,0.29,0.534254574,KO/TKO,Defeat
+357,18/10/2019,Dominick Reyes,Chris Weidman,Dominick Reyes,Red,Red,Winner,M,72,1.824168253,0.12,-0.618923278,KO/TKO,Defeat
+358,18/10/2019,Joe Lauzon,Jonathan Pearce,Jonathan Pearce,Red,Blue,Loser,M,42,-0.178190436,0.2,-0.076251348,KO/TKO,Defeat
+359,18/10/2019,Maycee Barber,Gillian Robertson,Maycee Barber,Red,Red,Winner,F,50,0.355771881,0.4,1.280428479,KO/TKO,Defeat
+360,18/10/2019,Randy Costa,Boston Salmon,Boston Salmon,Red,Blue,Loser,M,54,0.62275304,0.19,-0.144085339,KO/TKO,Defeat
+361,12/10/2019,Niko Price,James Vick,Niko Price,Red,Red,Winner,M,50,0.355771881,0.27,0.398586591,KO/TKO,Defeat
+362,12/10/2019,Mike Davis,Thomas Gifford,Thomas Gifford,Red,Blue,Loser,M,36,-0.578662173,0.6,2.637108305,KO/TKO,Defeat
+363,12/10/2019,Marlon Vera,Andre Ewell,Marlon Vera,Red,Red,Winner,M,60,1.023224777,0.44,1.551764444,KO/TKO,Defeat
+364,12/10/2019,Miguel Baeza,Hector Aldana,Hector Aldana,Red,Blue,Loser,M,19,-1.713332097,0.2,-0.076251348,KO/TKO,Defeat
+365,05/10/2019,Robert Whittaker,Israel Adesanya,Robert Whittaker,Blue,Red,Loser,M,27,-1.17936978,0.42,1.416096461,KO/TKO,Defeat
+366,05/10/2019,Justin Tafa,Yorgan De Castro,Yorgan De Castro,Blue,Blue,Winner,M,33,-0.778898042,0.11,-0.68675727,KO/TKO,Defeat
+367,05/10/2019,Nadia Kassem,Ji Keon Yim,Nadia Kassem,Blue,Red,Loser,F,34,-0.712152753,0.39,1.212594487,KO/TKO,Defeat
+368,28/09/2019,Jack Hermansson,Jared Cannonier,Jared Cannonier,Blue,Blue,Winner,M,52,0.489262461,0.62,2.772776288,KO/TKO,Defeat
+369,28/09/2019,Mark Madsen,Danilo Belluardo,Mark Madsen,Red,Red,Winner,M,75,2.024404122,0.23,0.127250626,KO/TKO,Defeat
+370,28/09/2019,Ion Cutelaba,Khalil Rountree Jr,Khalil Rountree Jr,Red,Blue,Loser,M,41,-0.244935725,0.08,-0.890259244,KO/TKO,Defeat
+371,28/09/2019,Alen Amedovski,John Phillips,Alen Amedovski,Blue,Red,Loser,M,18,-1.780077386,0.65,2.976278262,KO/TKO,Defeat
+372,21/09/2019,Martin Bravo,Steven Peterson,Steven Peterson,Blue,Blue,Winner,M,46,0.088790723,0.72,3.451116201,KO/TKO,Defeat
+373,21/09/2019,Marco Polo Reyes,Kyle Nelson,Marco Polo Reyes,Blue,Red,Loser,M,60,1.023224777,0.11,-0.68675727,KO/TKO,Defeat
+374,14/09/2019,Donald Cerrone,Justin Gaethje,Justin Gaethje,Blue,Blue,Winner,M,65,1.356951226,0.24,0.195084617,KO/TKO,Defeat
+375,14/09/2019,Marcin Tybura,Augusto Sakai,Marcin Tybura,Blue,Red,Loser,M,85,2.691857018,0.12,-0.618923278,KO/TKO,Defeat
+376,14/09/2019,Louis Smolka,Ryan MacDonald,Ryan MacDonald,Red,Blue,Loser,M,37,-0.511916884,0.29,0.534254574,KO/TKO,Defeat
+377,07/09/2019,Curtis Blaydes,Shamil Abdurakhimov,Curtis Blaydes,Red,Red,Winner,M,58,0.889734198,0.37,1.076926505,KO/TKO,Defeat
+378,07/09/2019,Liana Jojua,Sarah Moras,Sarah Moras,Blue,Blue,Winner,F,50,0.355771881,0.72,3.451116201,KO/TKO,Defeat
+379,07/09/2019,Ottman Azaitar,Teemu Packalen,Ottman Azaitar,Red,Red,Winner,M,50,0.355771881,0.25,0.262918609,KO/TKO,Defeat
+380,07/09/2019,Nordine Taleb,Muslim Salikhov,Muslim Salikhov,Blue,Blue,Winner,M,43,-0.111445146,0.09,-0.822425252,KO/TKO,Defeat
+381,31/08/2019,Jessica Andrade,Weili Zhang,Jessica Andrade,Blue,Red,Loser,F,33,-0.778898042,0.29,0.534254574,KO/TKO,Defeat
+382,31/08/2019,Jingliang Li,Elizeu Zaleski dos Santos,Elizeu Zaleski dos Santos,Red,Blue,Loser,M,33,-0.778898042,0.39,1.212594487,KO/TKO,Defeat
+383,17/08/2019,Daniel Cormier,Stipe Miocic,Daniel Cormier,Blue,Red,Loser,M,68,1.557187094,0.74,3.586784184,KO/TKO,Defeat
+384,17/08/2019,Gabriel Benitez,Sodiq Yusuff,Sodiq Yusuff,Blue,Blue,Winner,M,43,-0.111445146,0.31,0.669922557,KO/TKO,Defeat
+385,17/08/2019,Devonte Smith,Khama Worthy,Devonte Smith,Blue,Red,Loser,M,55,0.689498329,0.11,-0.68675727,KO/TKO,Defeat
+386,10/08/2019,Volkan Oezdemir,Ilir Latifi,Ilir Latifi,Red,Blue,Loser,M,30,-0.979133911,0.19,-0.144085339,KO/TKO,Defeat
+387,03/08/2019,Joaquim Silva,Nasrat Haqparast,Joaquim Silva,Blue,Red,Loser,M,26,-1.246115069,0.58,2.501440322,KO/TKO,Defeat
+388,03/08/2019,Lauren Murphy,Mara Romero Borella,Mara Romero Borella,Red,Blue,Loser,F,30,-0.979133911,0.38,1.144760496,KO/TKO,Defeat
+389,27/07/2019,Geoff Neal,Niko Price,Geoff Neal,Red,Red,Winner,M,67,1.490441805,0.33,0.805590539,KO/TKO,Defeat
+390,27/07/2019,Hakeem Dawodu,Yoshinori Horie,Yoshinori Horie,Red,Blue,Loser,M,49,0.289026592,0.22,0.059416635,KO/TKO,Defeat
+391,27/07/2019,Gillian Robertson,Sarah Frota,Gillian Robertson,Red,Red,Winner,F,69,1.623932384,0.2,-0.076251348,KO/TKO,Defeat
+392,20/07/2019,Aleksei Oleinik,Walt Harris,Walt Harris,Blue,Blue,Winner,M,57,0.822988909,0.58,2.501440322,KO/TKO,Defeat
+393,20/07/2019,Greg Hardy,Juan Adams,Greg Hardy,Red,Red,Winner,M,94,3.292564624,0.84,4.265124097,KO/TKO,Defeat
+394,20/07/2019,James Vick,Dan Hooker,Dan Hooker,Blue,Blue,Winner,M,53,0.55600775,0.27,0.398586591,KO/TKO,Defeat
+395,13/07/2019,Germaine de Randamie,Aspen Ladd,Germaine de Randamie,Red,Red,Winner,F,80,2.35813057,0.31,0.669922557,KO/TKO,Defeat
+396,13/07/2019,Urijah Faber,Ricky Simon,Ricky Simon,Red,Blue,Loser,M,50,0.355771881,0.17,-0.279753322,KO/TKO,Defeat
+397,13/07/2019,Josh Emmett,Mirsad Bektic,Josh Emmett,Red,Red,Winner,M,51,0.422517171,0.23,0.127250626,KO/TKO,Defeat
+398,13/07/2019,Andre Fili,Sheymon Moraes,Sheymon Moraes,Red,Blue,Loser,M,50,0.355771881,0.12,-0.618923278,KO/TKO,Defeat
+399,13/07/2019,Liu Pingyuan,Jonathan Martinez,Liu Pingyuan,Blue,Red,Loser,M,18,-1.780077386,0.42,1.416096461,KO/TKO,Defeat
+400,06/07/2019,Amanda Nunes,Holly Holm,Holly Holm,Red,Blue,Loser,F,78,2.224639991,0.07,-0.958093235,KO/TKO,Defeat
+401,06/07/2019,Jorge Masvidal,Ben Askren,Jorge Masvidal,Red,Red,Winner,M,100,3.693036362,0.6,2.637108305,KO/TKO,Defeat
+402,06/07/2019,Jan Blachowicz,Luke Rockhold,Luke Rockhold,Red,Blue,Loser,M,38,-0.445171594,0.25,0.262918609,KO/TKO,Defeat
+403,06/07/2019,Alejandro Perez,Song Yadong,Alejandro Perez,Blue,Red,Loser,M,7,-2.514275572,0.11,-0.68675727,KO/TKO,Defeat
+404,29/06/2019,Francis Ngannou,Junior Dos Santos,Junior Dos Santos,Red,Blue,Loser,M,66,1.423696515,0.08,-0.890259244,KO/TKO,Defeat
+405,29/06/2019,Jussier Formiga,Joseph Benavidez,Jussier Formiga,Blue,Red,Loser,M,31,-0.912388621,0.14,-0.483255296,KO/TKO,Defeat
+406,29/06/2019,Drew Dober,Marco Polo Reyes,Marco Polo Reyes,Red,Blue,Loser,M,35,-0.645407463,0.21,-0.008417357,KO/TKO,Defeat
+407,29/06/2019,Alonzo Menifield,Paul Craig,Alonzo Menifield,Red,Red,Winner,M,36,-0.578662173,0.12,-0.618923278,KO/TKO,Defeat
+408,29/06/2019,Eryk Anders,Vinicius Moreira,Vinicius Moreira,Red,Blue,Loser,M,66,1.423696515,0.04,-1.161595209,KO/TKO,Defeat
+409,29/06/2019,Dalcha Lungiambula,Dequan Townsend,Dalcha Lungiambula,Red,Red,Winner,M,74,1.957658832,0.49,1.8909344,KO/TKO,Defeat
+410,29/06/2019,Maurice Greene,Junior Albini,Junior Albini,Red,Blue,Loser,M,43,-0.111445146,0.22,0.059416635,KO/TKO,Defeat
+411,22/06/2019,Renato Moicano,Chan Sung Jung,Renato Moicano,Blue,Red,Loser,M,0,-2.981492599,0.05,-1.093761218,KO/TKO,Defeat
+412,22/06/2019,Bryan Barberena,Randy Brown,Randy Brown,Blue,Blue,Winner,M,58,0.889734198,0.52,2.094436374,KO/TKO,Defeat
+413,22/06/2019,Matt Wiman,Luis Pena,Matt Wiman,Blue,Red,Loser,M,57,0.822988909,0.24,0.195084617,KO/TKO,Defeat
+414,22/06/2019,Allen Crowder,Jairzinho Rozenstruik,Jairzinho Rozenstruik,Blue,Blue,Winner,M,100,3.693036362,0.44,1.551764444,KO/TKO,Defeat
+415,08/06/2019,Henry Cejudo,Marlon Moraes,Henry Cejudo,Red,Red,Winner,M,52,0.489262461,0.44,1.551764444,KO/TKO,Defeat
+416,08/06/2019,Valentina Shevchenko,Jessica Eye,Jessica Eye,Red,Blue,Loser,F,16,-1.913567966,0.6,2.637108305,KO/TKO,Defeat
+417,08/06/2019,Ricardo Lamas,Calvin Kattar,Ricardo Lamas,Blue,Red,Loser,M,41,-0.244935725,0.12,-0.618923278,KO/TKO,Defeat
+418,08/06/2019,Eddie Wineland,Grigorii Popov,Grigorii Popov,Red,Blue,Loser,M,36,-0.578662173,0.43,1.483930453,KO/TKO,Defeat
+419,01/06/2019,Jimi Manuwa,Aleksandar Rakic,Jimi Manuwa,Blue,Red,Loser,M,66,1.423696515,0.06,-1.025927226,KO/TKO,Defeat
+420,01/06/2019,Stevie Ray,Leonardo Santos,Leonardo Santos,Blue,Blue,Winner,M,75,2.024404122,0.12,-0.618923278,KO/TKO,Defeat
+421,01/06/2019,Nick Hein,Frank Camacho,Nick Hein,Blue,Red,Loser,M,46,0.088790723,0.24,0.195084617,KO/TKO,Defeat
+422,01/06/2019,Joel Alvarez,Danilo Belluardo,Danilo Belluardo,Red,Blue,Loser,M,65,1.356951226,0.34,0.873424531,KO/TKO,Defeat
+423,18/05/2019,Vicente Luque,Derrick Krantz,Vicente Luque,Red,Red,Winner,M,72,1.824168253,0.11,-0.68675727,KO/TKO,Defeat
+424,18/05/2019,Charles Oliveira,Nik Lentz,Nik Lentz,Red,Blue,Loser,M,36,-0.578662173,0.28,0.466420583,KO/TKO,Defeat
+425,18/05/2019,Danny Roberts,Michel Pereira,Danny Roberts,Blue,Red,Loser,M,50,0.355771881,0.04,-1.161595209,KO/TKO,Defeat
+426,18/05/2019,Patrick Cummins,Ed Herman,Ed Herman,Blue,Blue,Winner,M,31,-0.912388621,0.17,-0.279753322,KO/TKO,Defeat
+427,18/05/2019,Julio Arce,Julian Erosa,Julio Arce,Red,Red,Winner,M,46,0.088790723,0.7,3.315448218,KO/TKO,Defeat
+428,11/05/2019,Rose Namajunas,Jessica Andrade,Jessica Andrade,Blue,Blue,Winner,F,44,-0.044699856,0.45,1.619598435,KO/TKO,Defeat
+429,11/05/2019,Jared Cannonier,Anderson Silva,Jared Cannonier,Red,Red,Winner,M,54,0.62275304,0.11,-0.68675727,KO/TKO,Defeat
+430,11/05/2019,Rogerio Nogueira,Ryan Spann,Ryan Spann,Blue,Blue,Winner,M,40,-0.311681015,0.25,0.262918609,KO/TKO,Defeat
+431,11/05/2019,Warlley Alves,Sergio Moraes,Warlley Alves,Red,Red,Winner,M,45,0.022045433,0.42,1.416096461,KO/TKO,Defeat
+432,11/05/2019,Raoni Barcelos,Carlos Huachin,Carlos Huachin,Red,Blue,Loser,M,15,-1.980313255,0.31,0.669922557,KO/TKO,Defeat
+433,11/05/2019,Talita Bernado,Viviane Araujo,Talita Bernado,Blue,Red,Loser,F,33,-0.778898042,0.84,4.265124097,KO/TKO,Defeat
+434,04/05/2019,Walt Harris,Serghei Spivac,Serghei Spivac,Red,Blue,Loser,M,33,-0.778898042,0.06,-1.025927226,KO/TKO,Defeat
+435,04/05/2019,Macy Chiasson,Sarah Moras,Macy Chiasson,Red,Red,Winner,F,65,1.356951226,0.53,2.162270366,KO/TKO,Defeat
+436,27/04/2019,Greg Hardy,Dmitrii Smoliakov,Dmitrii Smoliakov,Red,Blue,Loser,M,33,-0.778898042,0.02,-1.297263192,KO/TKO,Defeat
+437,27/04/2019,Ben Saunders,Takashi Sato,Ben Saunders,Blue,Red,Loser,M,51,0.422517171,0.66,3.044112253,KO/TKO,Defeat
+438,20/04/2019,Alistair Overeem,Aleksei Oleinik,Aleksei Oleinik,Red,Blue,Loser,M,65,1.356951226,0.35,0.941258522,KO/TKO,Defeat
+439,20/04/2019,Sergei Pavlovich,Marcelo Golm,Sergei Pavlovich,Red,Red,Winner,M,65,1.356951226,0.39,1.212594487,KO/TKO,Defeat
+440,20/04/2019,Marcin Tybura,Shamil Abdurakhimov,Shamil Abdurakhimov,Blue,Blue,Winner,M,41,-0.244935725,0.34,0.873424531,KO/TKO,Defeat
+441,20/04/2019,Gadzhimurad Antigulov,Michal Oleksiejczuk,Gadzhimurad Antigulov,Blue,Red,Loser,M,46,0.088790723,0.3,0.602088565,KO/TKO,Defeat
+442,20/04/2019,Magomed Mustafaev,Rafael Fiziev,Rafael Fiziev,Red,Blue,Loser,M,100,3.693036362,0.01,-1.365097183,KO/TKO,Defeat
+443,13/04/2019,Wilson Reis,Alexandre Pantoja,Wilson Reis,Blue,Red,Loser,M,16,-1.913567966,0.04,-1.161595209,KO/TKO,Defeat
+445,30/03/2019,Edson Barboza,Justin Gaethje,Justin Gaethje,Blue,Blue,Winner,M,57,0.822988909,0.25,0.262918609,KO/TKO,Defeat
+446,30/03/2019,Josh Emmett,Michael Johnson,Josh Emmett,Red,Red,Winner,M,25,-1.312860359,0.23,0.127250626,KO/TKO,Defeat
+447,30/03/2019,Ross Pearson,Desmond Green,Desmond Green,Blue,Blue,Winner,M,78,2.224639991,0.19,-0.144085339,KO/TKO,Defeat
+448,23/03/2019,Stephen Thompson,Anthony Pettis,Stephen Thompson,Blue,Red,Loser,M,43,-0.111445146,0.3,0.602088565,KO/TKO,Defeat
+449,23/03/2019,Maycee Barber,JJ Aldrich,JJ Aldrich,Red,Blue,Loser,F,29,-1.045879201,0.37,1.076926505,KO/TKO,Defeat
+450,23/03/2019,Marlon Vera,Frankie Saenz,Marlon Vera,Red,Red,Winner,M,75,2.024404122,0.2,-0.076251348,KO/TKO,Defeat
+451,16/03/2019,Darren Till,Jorge Masvidal,Jorge Masvidal,Blue,Blue,Winner,M,48,0.222281302,0.32,0.737756548,KO/TKO,Defeat
+452,16/03/2019,Mike Grundy,Nad Narimani,Mike Grundy,Red,Red,Winner,M,58,0.889734198,0.17,-0.279753322,KO/TKO,Defeat
+453,09/03/2019,Derrick Lewis,Junior Dos Santos,Junior Dos Santos,Blue,Blue,Winner,M,52,0.489262461,0.31,0.669922557,KO/TKO,Defeat
+454,09/03/2019,Tim Means,Niko Price,Tim Means,Blue,Red,Loser,M,64,1.290205936,0.19,-0.144085339,KO/TKO,Defeat
+455,09/03/2019,Alex Morono,Zak Ottow,Zak Ottow,Red,Blue,Loser,M,32,-0.845643332,0.14,-0.483255296,KO/TKO,Defeat
+456,02/03/2019,Cody Garbrandt,Pedro Munhoz,Cody Garbrandt,Blue,Red,Loser,M,35,-0.645407463,0.21,-0.008417357,KO/TKO,Defeat
+457,02/03/2019,Misha Cirkunov,Johnny Walker,Johnny Walker,Blue,Blue,Winner,M,50,0.355771881,0.22,0.059416635,KO/TKO,Defeat
+458,02/03/2019,Diego Sanchez,Mickey Gall,Diego Sanchez,Red,Red,Winner,M,64,1.290205936,0.29,0.534254574,KO/TKO,Defeat
+459,02/03/2019,Edmen Shahbazyan,Charles Byrd,Charles Byrd,Red,Blue,Loser,M,16,-1.913567966,0.16,-0.347587313,KO/TKO,Defeat
+460,02/03/2019,Gina Mazany,Macy Chiasson,Gina Mazany,Blue,Red,Loser,F,56,0.756243619,0.33,0.805590539,KO/TKO,Defeat
+461,23/02/2019,Jan Blachowicz,Thiago Santos,Thiago Santos,Blue,Blue,Winner,M,50,0.355771881,0.65,2.976278262,KO/TKO,Defeat
+462,23/02/2019,Gian Villante,Michal Oleksiejczuk,Gian Villante,Blue,Red,Loser,M,45,0.022045433,0.21,-0.008417357,KO/TKO,Defeat
+463,23/02/2019,Dwight Grant,Carlo Pedersoli,Carlo Pedersoli,Red,Blue,Loser,M,37,-0.511916884,0.15,-0.415421305,KO/TKO,Defeat
+464,23/02/2019,Damir Hadzovic,Marco Polo Reyes,Damir Hadzovic,Red,Red,Winner,M,53,0.55600775,0.66,3.044112253,KO/TKO,Defeat
+465,14/03/2020,Kevin Lee,Charles Oliveira,Charles Oliveira,Blue,Blue,Winner,M,66,1.423696515,0.12,-0.618923278,Submission,Defeat
+466,14/03/2020,Renato Moicano,Damir Hadzovic,Renato Moicano,Red,Red,Winner,M,50,0.355771881,0.11,-0.68675727,Submission,Defeat
+467,07/03/2020,Rodolfo Vieira,Sapabeg Safarov,Sapabeg Safarov,Red,Blue,Loser,M,50,0.355771881,0.07,-0.958093235,Submission,Defeat
+468,07/03/2020,Gerald Meerschaert,Deron Winn,Gerald Meerschaert,Red,Red,Winner,M,45,0.022045433,0.26,0.3307526,Submission,Defeat
+469,29/02/2020,Grant Dawson,Darrick Minner,Darrick Minner,Red,Blue,Loser,M,57,0.822988909,0.07,-0.958093235,Submission,Defeat
+470,29/02/2020,Jordan Griffin,TJ Brown,Jordan Griffin,Red,Red,Winner,M,65,1.356951226,0.05,-1.093761218,Submission,Defeat
+471,22/02/2020,Jimmy Crute,Michal Oleksiejczuk,Michal Oleksiejczuk,Red,Blue,Loser,M,50,0.355771881,0.05,-1.093761218,Submission,Defeat
+472,15/02/2020,Tim Means,Daniel Rodriguez,Tim Means,Blue,Red,Loser,M,43,-0.111445146,0.18,-0.211919331,Submission,Defeat
+473,25/01/2020,Jordan Espinosa,Alex Perez,Alex Perez,Blue,Blue,Winner,M,22,-1.513096228,0.15,-0.415421305,Submission,Defeat
+474,25/01/2020,Brett Johns,Tony Gravely,Brett Johns,Red,Red,Winner,M,76,2.091149411,0.1,-0.754591261,Submission,Defeat
+475,18/01/2020,Aleksei Oleinik,Maurice Greene,Maurice Greene,Red,Blue,Loser,M,44,-0.044699856,0.09,-0.822425252,Submission,Defeat
+476,18/01/2020,Brian Kelleher,Ode Osbourne,Brian Kelleher,Red,Red,Winner,M,58,0.889734198,0.2,-0.076251348,Submission,Defeat
+477,18/01/2020,Anthony Pettis,Diego Ferreira,Diego Ferreira,Blue,Blue,Winner,M,47,0.155536012,0.18,-0.211919331,Submission,Defeat
+478,21/12/2019,Miranda Granger,Amanda Lemos,Miranda Granger,Blue,Red,Loser,F,50,0.355771881,0.04,-1.161595209,Submission,Defeat
+479,07/12/2019,Thiago Alves,Tim Means,Tim Means,Blue,Blue,Winner,M,56,0.756243619,0.27,0.398586591,Submission,Defeat
+480,07/12/2019,Billy Quarantillo,Jacob Kilburn,Billy Quarantillo,Red,Red,Winner,M,86,2.758602307,0.64,2.90844427,Submission,Defeat
+481,07/12/2019,Bryce Mitchell,Matt Sayles,Matt Sayles,Red,Blue,Loser,M,50,0.355771881,0.03,-1.2294292,Submission,Defeat
+482,07/12/2019,Virna Jandiroba,Mallory Martin,Virna Jandiroba,Red,Red,Winner,F,35,-0.645407463,0.26,0.3307526,Submission,Defeat
+483,16/11/2019,Ricardo Ramos,Eduardo Garagorri,Eduardo Garagorri,Red,Blue,Loser,M,37,-0.511916884,0.07,-0.958093235,Submission,Defeat
+484,16/11/2019,Warlley Alves,Randy Brown,Warlley Alves,Blue,Red,Loser,M,27,-1.17936978,0.05,-1.093761218,Submission,Defeat
+485,09/11/2019,Roman Kopylov,Karl Roberson,Karl Roberson,Blue,Blue,Winner,M,36,-0.578662173,0.32,0.737756548,Submission,Defeat
+486,09/11/2019,Abubakar Nurmagomedov,David Zawada,Abubakar Nurmagomedov,Blue,Red,Loser,M,44,-0.044699856,0.2,-0.076251348,Submission,Defeat
+487,26/10/2019,Demian Maia,Ben Askren,Ben Askren,Red,Blue,Loser,M,49,0.289026592,0.47,1.755266418,Submission,Defeat
+488,26/10/2019,Frank Camacho,Beneil Dariush,Frank Camacho,Blue,Red,Loser,M,33,-0.778898042,0.07,-0.958093235,Submission,Defeat
+489,26/10/2019,Ciryl Gane,Don'Tale Mayes,Don'Tale Mayes,Red,Blue,Loser,M,26,-1.246115069,0.33,0.805590539,Submission,Defeat
+490,18/10/2019,Charles Rosa,Manny Bermudez,Charles Rosa,Red,Red,Winner,M,75,2.024404122,0.07,-0.958093235,Submission,Defeat
+491,18/10/2019,Brendan Allen,Kevin Holland,Kevin Holland,Red,Blue,Loser,M,57,0.822988909,0.2,-0.076251348,Submission,Defeat
+492,12/10/2019,Ryan Spann,Devin Clark,Ryan Spann,Red,Red,Winner,M,35,-0.645407463,0.27,0.398586591,Submission,Defeat
+493,12/10/2019,Deiveson Figueiredo,Tim Elliott,Tim Elliott,Red,Blue,Loser,M,68,1.557187094,0.24,0.195084617,Submission,Defeat
+494,05/10/2019,Tai Tuivasa,Serghei Spivac,Tai Tuivasa,Blue,Red,Loser,M,42,-0.178190436,0.2,-0.076251348,Submission,Defeat
+495,05/10/2019,Megan Anderson,Zarah Fairn,Zarah Fairn,Red,Blue,Loser,F,40,-0.311681015,0.19,-0.144085339,Submission,Defeat
+496,05/10/2019,Khalid Taha,Bruno Silva,Khalid Taha,Red,Red,Winner,M,43,-0.111445146,0.42,1.416096461,Submission,Defeat
+497,28/09/2019,Michal Oleksiejczuk,Ovince Saint Preux,Ovince Saint Preux,Blue,Blue,Winner,M,29,-1.045879201,0.24,0.195084617,Submission,Defeat
+498,28/09/2019,Jack Shore,Nohelin Hernandez,Jack Shore,Red,Red,Winner,M,50,0.355771881,0.48,1.823100409,Submission,Defeat
+499,21/09/2019,Vinicius Moreira,Paul Craig,Paul Craig,Blue,Blue,Winner,M,66,1.423696515,0.22,0.059416635,Submission,Defeat
+500,14/09/2019,Misha Cirkunov,Jimmy Crute,Misha Cirkunov,Red,Red,Winner,M,60,1.023224777,0.13,-0.551089287,Submission,Defeat
+501,07/09/2019,Khabib Nurmagomedov,Dustin Poirer,Dustin Poirer,Red,Blue,Loser,M,30,-0.979133911,0.23,0.127250626,Submission,Defeat
+502,07/09/2019,Belal Muhammad,Takashi Sato,Belal Muhammad,Red,Red,Winner,M,46,0.088790723,0.63,2.840610279,Submission,Defeat
+503,31/08/2019,Jun Yong Park,Anthony Hernandez,Anthony Hernandez,Blue,Blue,Winner,M,53,0.55600775,0.38,1.144760496,Submission,Defeat
+504,31/08/2019,Da-Un Jung,Khadis Ibragimov,Da-Un Jung,Red,Red,Winner,M,42,-0.178190436,0.82,4.129456114,Submission,Defeat
+505,10/08/2019,Rodolfo Vieira,Oskar Piechota,Oskar Piechota,Red,Blue,Loser,M,51,0.422517171,0.23,0.127250626,Submission,Defeat
+506,10/08/2019,Ciryl Gane,Raphael Pessoa,Ciryl Gane,Red,Red,Winner,M,68,1.557187094,0.11,-0.68675727,Submission,Defeat
+507,10/08/2019,Veronica Macedo,Polyana Viana,Polyana Viana,Red,Blue,Loser,F,33,-0.778898042,0.04,-1.161595209,Submission,Defeat
+508,03/08/2019,Jim Miller,Clay Guida,Jim Miller,Red,Red,Winner,M,25,-1.312860359,0.14,-0.483255296,Submission,Defeat
+509,03/08/2019,Trevin Giles,Gerald Meerschaert,Gerald Meerschaert,Blue,Blue,Winner,M,31,-0.912388621,0.24,0.195084617,Submission,Defeat
+510,03/08/2019,Antonina Shevchenko,Lucie Pudilova,Antonina Shevchenko,Red,Red,Winner,F,69,1.623932384,0.31,0.669922557,Submission,Defeat
+511,03/08/2019,Jordan Espinosa,Matt Schnell,Matt Schnell,Blue,Blue,Winner,M,25,-1.312860359,0.14,-0.483255296,Submission,Defeat
+512,03/08/2019,Claudio Silva,Cole Williams,Claudio Silva,Red,Red,Winner,M,86,2.758602307,0.25,0.262918609,Submission,Defeat
+513,27/07/2019,Gavin Tucker,SeungWoo Choi,SeungWoo Choi,Red,Blue,Loser,M,23,-1.446350938,0.37,1.076926505,Submission,Defeat
+514,06/07/2019,Marlon Vera,Nohelin Hernandez,Marlon Vera,Red,Red,Winner,M,37,-0.511916884,0.2,-0.076251348,Submission,Defeat
+515,06/07/2019,Edmen Shahbazyan,Jack Marshman,Jack Marshman,Red,Blue,Loser,M,0,-2.981492599,0.1,-0.754591261,Submission,Defeat
+516,29/06/2019,Emily Whitmire,Amanda Ribas,Emily Whitmire,Blue,Red,Loser,F,28,-1.11262449,0.19,-0.144085339,Submission,Defeat
+517,01/06/2019,Alexander Gustafsson,Anthony Smith,Anthony Smith,Blue,Blue,Winner,M,47,0.155536012,0.32,0.737756548,Submission,Defeat
+518,01/06/2019,Makwan Amirkhani,Chris Fishgold,Makwan Amirkhani,Red,Red,Winner,M,33,-0.778898042,0.11,-0.68675727,Submission,Defeat
+519,01/06/2019,Bea Malecki,Duda Santana,Duda Santana,Red,Blue,Loser,F,26,-1.246115069,0.46,1.687432426,Submission,Defeat
+520,18/05/2019,Rafael Dos Anjos,Kevin Lee,Rafael Dos Anjos,Red,Red,Winner,M,54,0.62275304,0.31,0.669922557,Submission,Defeat
+521,18/05/2019,Megan Anderson,Felicia Spencer,Felicia Spencer,Blue,Blue,Winner,F,70,1.690677674,0.17,-0.279753322,Submission,Defeat
+522,18/05/2019,Michael Trizano,Grant Dawson,Michael Trizano,Blue,Red,Loser,M,48,0.222281302,0.22,0.059416635,Submission,Defeat
+523,18/05/2019,Zak Cummings,Trevin Giles,Trevin Giles,Red,Blue,Loser,M,48,0.222281302,0.19,-0.144085339,Submission,Defeat
+524,11/05/2019,Irene Aldana,Bethe Correia,Irene Aldana,Red,Red,Winner,F,33,-0.778898042,0.77,3.790286158,Submission,Defeat
+525,04/05/2019,Kyle Nelson,Matt Sayles,Matt Sayles,Blue,Blue,Winner,M,51,0.422517171,0.57,2.433606331,Submission,Defeat
+526,27/04/2019,Glover Teixeira,Ion Cutelaba,Glover Teixeira,Red,Red,Winner,M,52,0.489262461,0.23,0.127250626,Submission,Defeat
+527,27/04/2019,Gilbert Burns,Mike Davis,Mike Davis,Red,Blue,Loser,M,29,-1.045879201,0.16,-0.347587313,Submission,Defeat
+528,27/04/2019,Jim Miller,Jason Gonzalez,Jim Miller,Red,Red,Winner,M,54,0.62275304,0.11,-0.68675727,Submission,Defeat
+529,20/04/2019,Alexander Yakovlev,Alex Da Silva,Alex Da Silva,Red,Blue,Loser,M,42,-0.178190436,0.09,-0.822425252,Submission,Defeat
+530,13/04/2019,Ovince Saint Preux,Nikita Krylov,Ovince Saint Preux,Blue,Red,Loser,M,50,0.355771881,0.08,-0.890259244,Submission,Defeat
+531,13/04/2019,Brandon Davis,Randy Costa,Randy Costa,Red,Blue,Loser,M,45,0.022045433,0.79,3.92595414,Submission,Defeat
+532,30/03/2019,David Branch,Jack Hermansson,David Branch,Blue,Red,Loser,M,16,-1.913567966,0.12,-0.618923278,Submission,Defeat
+533,30/03/2019,Kennedy Nzechukwu,Paul Craig,Paul Craig,Blue,Blue,Winner,M,32,-0.845643332,0.22,0.059416635,Submission,Defeat
+534,23/03/2019,Randa Markos,Angela Hill,Randa Markos,Red,Red,Winner,F,50,0.355771881,0.13,-0.551089287,Submission,Defeat
+535,16/03/2019,Nathaniel Wood,Jose Quinonez,Jose Quinonez,Red,Blue,Loser,M,56,0.756243619,0.27,0.398586591,Submission,Defeat
+536,16/03/2019,Danny Roberts,Claudio Silva,Danny Roberts,Blue,Red,Loser,M,57,0.822988909,0.19,-0.144085339,Submission,Defeat
+537,16/03/2019,Danny Henry,Dan Ige,Dan Ige,Blue,Blue,Winner,M,58,0.889734198,0.22,0.059416635,Submission,Defeat
+538,09/03/2019,Elizeu Zaleski dos Santos,Curtis Millender,Elizeu Zaleski dos Santos,Red,Red,Winner,M,66,1.423696515,0.08,-0.890259244,Submission,Defeat
+539,09/03/2019,Beneil Dariush,Drew Dober,Drew Dober,Red,Blue,Loser,M,53,0.55600775,0.19,-0.144085339,Submission,Defeat
+540,09/03/2019,Louis Smolka,Matt Schnell,Louis Smolka,Blue,Red,Loser,M,54,0.62275304,0.13,-0.551089287,Submission,Defeat
+541,02/03/2019,Robbie Lawler,Ben Askren,Ben Askren,Blue,Blue,Winner,M,0,-2.981492599,0.02,-1.297263192,Submission,Defeat
+542,23/02/2019,Stefan Struve,Marcos Rogerio de Lima,Stefan Struve,Red,Red,Winner,M,0,-2.981492599,0.03,-1.2294292,Submission,Defeat
+543,23/02/2019,Daniel Teymur,Chris Fishgold,Chris Fishgold,Blue,Blue,Winner,M,43,-0.111445146,0.3,0.602088565,Submission,Defeat
+544,23/02/2019,Veronica Macedo,Gillian Robertson,Veronica Macedo,Blue,Red,Loser,F,56,0.756243619,0.21,-0.008417357,Submission,Defeat
+545,02/11/2019,Jorge Masvidal,Nate Diaz,Nate Diaz,Red,Blue,Loser,M,41,-0.244935725,0.22,0.059416635,TKO (Doctor's stoppage),Defeat
+546,21/09/2019,Ariane Carnelossi,Angela Hill,Ariane Carnelossi,Blue,Red,Loser,F,38,-0.445171594,0.83,4.197290105,TKO (Doctor's stoppage),Defeat
+547,10/08/2019,Rogerio Bontorin,Raulian Paiva,Raulian Paiva,Red,Blue,Loser,M,20,-1.646586807,0.11,-0.68675727,TKO (Doctor's stoppage),Defeat
+548,03/08/2019,Scott Holtzman,Dong Hyun Ma,Scott Holtzman,Red,Red,Winner,M,47,0.155536012,0.18,-0.211919331,TKO (Doctor's stoppage),Defeat
+549,08/06/2019,Tony Ferguson,Donald Cerrone,Donald Cerrone,Red,Blue,Loser,M,36,-0.578662173,0.31,0.669922557,TKO (Doctor's stoppage),Defeat
